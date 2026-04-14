@@ -1,32 +1,33 @@
-# Bankruptcy Dismissal Rate by District -- 2026 Data
+# Bankruptcy Dismissal Rate by District - 2026 Data
 > Compare bankruptcy dismissal rates across all 94 federal districts. Data-driven analysis of Chapter 13 failure rates. 2026 update.
 
 ## About
 dismissalrate.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Does Your Attorney Affect Your Chapter 13 Success Rate? -- Dismissal Rate: https://dismissalrate.org/attorney-impact.html
-- Bankruptcy Rate -- National Filing and Dismissal Statistics [2026] -- Dismissal Rate: https://dismissalrate.org/bankruptcy-rate.html
-- Bankruptcy Dismissal Rates by Federal District -- Find Your Court: https://dismissalrate.org/by-district.html
+- Does Your Attorney Affect Your Chapter 13 Success Rate? - Dismissal Rate: https://dismissalrate.org/attorney-impact.html
+- Bankruptcy Rate - National Filing and Dismissal Statistics [2026] - Dismissal Rate: https://dismissalrate.org/bankruptcy-rate.html
+- Bankruptcy Dismissal Rates by Federal District - Find Your Court: https://dismissalrate.org/by-district.html
 - Chapter 13 Bankruptcy Dismissal Rates by State: https://dismissalrate.org/by-state.html
-- The First-Year Drop -- When Most Chapter 13 Cases Fail -- Dismissal Rate: https://dismissalrate.org/first-year-drop.html
-- How to Check an Attorney's Dismissal Rate: https://dismissalrate.org/how-to-check.html
-- Bankruptcy Dismissal Rate by District -- 2026 Data: https://dismissalrate.org/
-- Your Bankruptcy Was Dismissed -- What Are Your Options Now? -- Dismissal Rate: https://dismissalrate.org/recovery-options.html
-- Voluntary Dismissal vs. Court-Ordered Dismissal in Bankruptcy -- Dismissal Rate: https://dismissalrate.org/voluntary-vs-court.html
-- What a High Dismissal Rate Means: https://dismissalrate.org/what-it-means.html
-- Why Do Chapter 13 Plans Fail? The Data Behind Bankruptcy Dismissals -- Dismissal Rate: https://dismissalrate.org/why-chapter-13-fail.html
-- Dismissal Rates -- Central District of California: https://dismissalrate.org/districts/central-district-of-california.html
-- Dismissal Rates -- Eastern District of New York: https://dismissalrate.org/districts/eastern-district-of-new-york.html
+- Dismissal Rates - Central District of California: https://dismissalrate.org/districts/central-district-of-california.html
+- Dismissal Rates - Eastern District of New York: https://dismissalrate.org/districts/eastern-district-of-new-york.html
 - Dismissal Rates by District: https://dismissalrate.org/districts/
-- Dismissal Rates -- Middle District of Florida: https://dismissalrate.org/districts/middle-district-of-florida.html
-- Dismissal Rates -- Northern District of Georgia: https://dismissalrate.org/districts/northern-district-of-georgia.html
-- Dismissal Rates -- Northern District of Illinois: https://dismissalrate.org/districts/northern-district-of-illinois.html
-- Dismissal Rates -- Northern District of Ohio: https://dismissalrate.org/districts/northern-district-of-ohio.html
-- Dismissal Rates -- Southern District of Florida: https://dismissalrate.org/districts/southern-district-of-florida.html
-- Dismissal Rates -- Southern District of New York: https://dismissalrate.org/districts/southern-district-of-new-york.html
-- Dismissal Rates -- Western District of Missouri: https://dismissalrate.org/districts/western-district-of-missouri.html
-- Dismissal Rates -- Western District of Tennessee: https://dismissalrate.org/districts/western-district-of-tennessee.html
+- Dismissal Rates - Middle District of Florida: https://dismissalrate.org/districts/middle-district-of-florida.html
+- Dismissal Rates - Northern District of Georgia: https://dismissalrate.org/districts/northern-district-of-georgia.html
+- Dismissal Rates - Northern District of Illinois: https://dismissalrate.org/districts/northern-district-of-illinois.html
+- Dismissal Rates - Northern District of Ohio: https://dismissalrate.org/districts/northern-district-of-ohio.html
+- Dismissal Rates - Southern District of Florida: https://dismissalrate.org/districts/southern-district-of-florida.html
+- Dismissal Rates - Southern District of New York: https://dismissalrate.org/districts/southern-district-of-new-york.html
+- Dismissal Rates - Western District of Missouri: https://dismissalrate.org/districts/western-district-of-missouri.html
+- Dismissal Rates - Western District of Tennessee: https://dismissalrate.org/districts/western-district-of-tennessee.html
+- The First-Year Drop - When Most Chapter 13 Cases Fail - Dismissal Rate: https://dismissalrate.org/first-year-drop.html
+- How to Check an Attorney's Dismissal Rate: https://dismissalrate.org/how-to-check.html
+- Bankruptcy Dismissal Rate by District - 2026 Data: https://dismissalrate.org/
+- Your Bankruptcy Was Dismissed - What Are Your Options Now? - Dismissal Rate: https://dismissalrate.org/recovery-options.html
+- Voluntary Dismissal vs. Court-Ordered Dismissal in Bankruptcy - Dismissal Rate: https://dismissalrate.org/voluntary-vs-court.html
+- What a High Dismissal Rate Means: https://dismissalrate.org/what-it-means.html
+- Why Do Chapter 13 Plans Fail? The Data Behind Bankruptcy Dismissals - Dismissal Rate: https://dismissalrate.org/why-chapter-13-fail.html
+- Privacy Policy: https://dismissalrate.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

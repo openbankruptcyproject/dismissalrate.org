@@ -6,7 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Does Your Attorney Affect Your Chapter 13 Success Rate? -- Dismissal Rate
+## Does Your Attorney Affect Your Chapter 13 Success Rate? - Dismissal Rate
 Source: https://dismissalrate.org/attorney-impact.html
 
 Skip to main content
@@ -26,17 +26,19 @@ Does Your Attorney Affect Your Chapter 13 Success Rate?
 
 Federal court data shows that attorney choice has a measurable, significant impact on whether your Chapter 13 plan succeeds or fails.
 
+Home›Bankruptcy Dismissal Rates›Does Your Attorney Affect Your Chapter 13 Success Rate?
+
 The Data Is Clear
 
-One of the strongest findings from federal bankruptcy court records is that attorney representation -- and the quality of that representation -- dramatically affects Chapter 13 outcomes. This is not speculation or opinion. It is a pattern that appears consistently across districts, time periods, and study methodologies.
+One of the strongest findings from federal bankruptcy court records is that attorney representation - and the quality of that representation - dramatically affects Chapter 13 outcomes. This is not speculation or opinion. It is a pattern that appears consistently across districts, time periods, and study methodologies.
 
-Federal court data shows that within the same district, under the same judges, with the same trustees, some attorneys consistently achieve completion rates well above the district average while others consistently fall well below it. The variation attributable to attorney choice can be 20 percentage points or more -- meaning the same debtor could have a 50% chance of success with one attorney and a 30% chance with another.
+Federal court data shows that within the same district, under the same judges, with the same trustees, some attorneys consistently achieve completion rates well above the district average while others consistently fall well below it. The variation attributable to attorney choice can be 20 percentage points or more - meaning the same debtor could have a 50% chance of success with one attorney and a 30% chance with another.
 
 Academic researchers have confirmed this finding in peer-reviewed studies. After controlling for debtor income, debt levels, local conditions, and other factors, attorney identity remains one of the strongest predictors of case outcome.
 
 Pro Se vs. Represented
 
-The most dramatic difference is between represented and unrepresented (pro se) debtors. Federal court data shows that pro se Chapter 13 cases have dismissal rates that are substantially higher than cases with attorney representation -- often two to three times higher.
+The most dramatic difference is between represented and unrepresented (pro se) debtors. Federal court data shows that pro se Chapter 13 cases have dismissal rates that are substantially higher than cases with attorney representation - often two to three times higher.
 
 This is not surprising. Chapter 13 is procedurally complex:
 
@@ -56,7 +58,7 @@ If you are considering filing pro se: Chapter 7 is generally more feasible witho
 
 Volume Practices and the "Mill" Problem
 
-Not all attorney representation is equal. Federal court data reveals a pattern where certain high-volume practices -- sometimes called "bankruptcy mills" -- consistently produce dismissal rates above the district average, even though their clients are represented.
+Not all attorney representation is equal. Federal court data reveals a pattern where certain high-volume practices - sometimes called "bankruptcy mills" - consistently produce dismissal rates above the district average, even though their clients are represented.
 
 What Characterizes a High-Volume Practice?
 
@@ -88,23 +90,23 @@ Missed deadlines and late filings become more common as caseload overwhelms capa
 
 The attorney's financial incentive (getting paid through the plan) may not align with the client's best interest (realistic plan design)
 
-The "no money down" trap: When an attorney defers their entire fee into the Chapter 13 plan, they get paid regardless of whether the plan succeeds. The attorney receives their fees from early plan payments before unsecured creditors receive anything. This creates a misaligned incentive -- the attorney profits from filing the case, not from seeing it through to completion.
+The "no money down" trap: When an attorney defers their entire fee into the Chapter 13 plan, they get paid regardless of whether the plan succeeds. The attorney receives their fees from early plan payments before unsecured creditors receive anything. This creates a misaligned incentive - the attorney profits from filing the case, not from seeing it through to completion.
 
 What Makes a Good Chapter 13 Attorney
 
 Federal court data and academic research point to several characteristics shared by attorneys with consistently high completion rates:
 
-Thorough initial consultation. Good attorneys spend time understanding your complete financial picture before deciding whether to file -- and which chapter to recommend. This means reviewing pay stubs, tax returns, bank statements, and all debts. A 15-minute meeting is not enough.
+Thorough initial consultation. Good attorneys spend time understanding your complete financial picture before deciding whether to file - and which chapter to recommend. This means reviewing pay stubs, tax returns, bank statements, and all debts. A 15-minute meeting is not enough.
 
 Realistic budget preparation. The plan budget should reflect your actual spending, not a theoretical minimum. Good attorneys account for variable expenses, seasonal costs, and an emergency cushion. They would rather propose a slightly lower payment to creditors than set you up to fail.
 
 Ongoing client communication. Cases that succeed are cases where the attorney stays involved after filing. This means checking in periodically, responding promptly when the client reports problems, and monitoring trustee reports for signs of trouble.
 
-Proactive plan modification. When a client's circumstances change -- job loss, medical emergency, divorce -- a good attorney files for plan modification under 11 U.S.C. Section 1329 before the client falls so far behind that dismissal becomes inevitable. Timing matters enormously.
+Proactive plan modification. When a client's circumstances change - job loss, medical emergency, divorce - a good attorney files for plan modification under 11 U.S.C. Section 1329 before the client falls so far behind that dismissal becomes inevitable. Timing matters enormously.
 
 Reasonable caseload. There is no magic number, but an attorney who can name their clients and remember their situations is generally providing better service than one who has to look up the file to remember who you are.
 
-Local expertise. Bankruptcy practice varies significantly by district. An attorney who files regularly in your specific court knows the local judges, trustees, and rules -- and knows what works and what does not.
+Local expertise. Bankruptcy practice varies significantly by district. An attorney who files regularly in your specific court knows the local judges, trustees, and rules - and knows what works and what does not.
 
 Warning Signs
 
@@ -142,7 +144,7 @@ Frequently Asked Questions
 
 Do pro se Chapter 13 cases succeed?
 
-Rarely. Federal court data shows that pro se Chapter 13 cases have dismissal rates that are dramatically higher than represented cases. The procedural complexity of Chapter 13 -- plan design, confirmation requirements, ongoing compliance, modification practice -- makes competent legal representation nearly essential. If cost is the barrier, explore legal aid options in your district.
+Rarely. Federal court data shows that pro se Chapter 13 cases have dismissal rates that are dramatically higher than represented cases. The procedural complexity of Chapter 13 - plan design, confirmation requirements, ongoing compliance, modification practice - makes competent legal representation nearly essential. If cost is the barrier, explore legal aid options in your district.
 
 How do I check my attorney's track record?
 
@@ -171,13 +173,13 @@ Subscribe
 
 Related Resources
 
-bankruptcymalpractice.org -- When attorney negligence causes harm
+bankruptcymalpractice.org - When attorney negligence causes harm
 
-prosedebtors.org -- Resources for self-represented filers
+prosedebtors.org - Resources for self-represented filers
 
-bankruptcymill.org -- Understanding high-volume practices
+bankruptcymill.org - Understanding high-volume practices
 
-howtofilebankruptcy.org -- Complete filing guide
+howtofilebankruptcy.org - Complete filing guide
 
 Last updated: March 2026. Data sourced from federal bankruptcy court records.
 
@@ -194,16 +196,16 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy denial and dismissal:
 
 11 U.S.C. Section 707
-Cornell LII -- Chapter 7 dismissal
+Cornell LII - Chapter 7 dismissal
 
 11 U.S.C. Section 1307
-Cornell LII -- Chapter 13 dismissal
+Cornell LII - Chapter 13 dismissal
 
 Bankruptcy Basics
 USCourts.gov
 
 U.S. Trustee Program
-DOJ -- motions to dismiss
+DOJ - motions to dismiss
 
 CFPB: Bankruptcy Overview
 Consumer guide
@@ -290,7 +292,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Bankruptcy Rate -- National Filing and Dismissal Statistics [2026] -- Dismissal Rate
+## Bankruptcy Rate - National Filing and Dismissal Statistics [2026] - Dismissal Rate
 Source: https://dismissalrate.org/bankruptcy-rate.html
 
 Skip to main content
@@ -305,9 +307,11 @@ Why Plans Fail
 Attorney Impact
 After Dismissal
 
-Bankruptcy Rate -- National Statistics
+Bankruptcy Rate - National Statistics
 
-How many Americans file bankruptcy, how often cases are dismissed, and how these rates vary by state and district -- with real data from the federal courts.
+How many Americans file bankruptcy, how often cases are dismissed, and how these rates vary by state and district - with real data from the federal courts.
+
+Home›Dismissal Rates›Bankruptcy Rate
 
 Quick Answer
 
@@ -325,7 +329,7 @@ Bankruptcy filing rates in the United States have followed a dramatic trajectory
 
 2011-2019 decline: Filings declined steadily as the economy recovered, falling to approximately 750,000 by 2019.
 
-2020-2021 historic lows: Pandemic relief measures -- stimulus payments, enhanced unemployment benefits, eviction moratoriums, and student loan forbearance -- pushed filings to historic lows, below 500,000.
+2020-2021 historic lows: Pandemic relief measures - stimulus payments, enhanced unemployment benefits, eviction moratoriums, and student loan forbearance - pushed filings to historic lows, below 500,000.
 
 2022-present: Filings have been rising as pandemic-era protections have expired. Recent annual totals are in the 400,000-500,000 range.
 
@@ -337,15 +341,15 @@ The split between Chapter 7 and Chapter 13 varies significantly by region:
 
 Nationally: Approximately 60-70% of consumer cases are Chapter 7 and 30-40% are Chapter 13.
 
-Southern districts: Many Southern districts have much higher Chapter 13 rates -- in some, Chapter 13 is the majority of consumer filings. Academic research attributes this to local legal culture, higher homeownership rates, and attorney fee structures.
+Southern districts: Many Southern districts have much higher Chapter 13 rates - in some, Chapter 13 is the majority of consumer filings. Academic research attributes this to local legal culture, higher homeownership rates, and attorney fee structures.
 
 Northern and Western districts: Chapter 7 tends to dominate, often accounting for 70-80% or more of consumer filings.
 
-Why does the chapter split matter? Chapter 13 takes 3-5 years and has a high dismissal rate. Chapter 7 takes 3-6 months and has a very high discharge rate. The chapter a debtor files under significantly affects their outcome. In some districts, attorneys may steer clients toward Chapter 13 when Chapter 7 might be more appropriate -- a pattern associated with "bankruptcy mill" practices.
+Why does the chapter split matter? Chapter 13 takes 3-5 years and has a high dismissal rate. Chapter 7 takes 3-6 months and has a very high discharge rate. The chapter a debtor files under significantly affects their outcome. In some districts, attorneys may steer clients toward Chapter 13 when Chapter 7 might be more appropriate - a pattern associated with "bankruptcy mill" practices.
 
 Dismissal Rates
 
-The dismissal rate -- the percentage of cases that end without a discharge -- is one of the most important statistics in consumer bankruptcy:
+The dismissal rate - the percentage of cases that end without a discharge - is one of the most important statistics in consumer bankruptcy:
 
 Chapter 7 Dismissal and Denial Rates
 
@@ -431,16 +435,16 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy denial and dismissal:
 
 11 U.S.C. Section 707
-Cornell LII -- Chapter 7 dismissal
+Cornell LII - Chapter 7 dismissal
 
 11 U.S.C. Section 1307
-Cornell LII -- Chapter 13 dismissal
+Cornell LII - Chapter 13 dismissal
 
 Bankruptcy Basics
 USCourts.gov
 
 U.S. Trustee Program
-DOJ -- motions to dismiss
+DOJ - motions to dismiss
 
 CFPB: Bankruptcy Overview
 Consumer guide
@@ -519,7 +523,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Bankruptcy Dismissal Rates by Federal District -- Find Your Court
+## Bankruptcy Dismissal Rates by Federal District - Find Your Court
 Source: https://dismissalrate.org/by-district.html
 
 Skip to main content
@@ -539,11 +543,13 @@ Dismissal Rates by Federal District
 
 All 94 federal judicial districts, organized by circuit. Find your court and see how Chapter 13 outcomes compare.
 
+Home›Bankruptcy Dismissal Rates›Dismissal Rates by Federal District
+
 Understanding the 94 Districts
 
 The United States is divided into 94 federal judicial districts, each with its own bankruptcy court. These districts are grouped into 12 regional circuits (plus the Federal Circuit, which does not handle bankruptcy). Every bankruptcy case is filed in the district where the debtor lives.
 
-Federal court data shows that Chapter 13 dismissal rates vary dramatically across these 94 districts -- from under 25% in some districts to over 55% in others. Even districts within the same state can differ by 15 or more percentage points.
+Federal court data shows that Chapter 13 dismissal rates vary dramatically across these 94 districts - from under 25% in some districts to over 55% in others. Even districts within the same state can differ by 15 or more percentage points.
 
 The data below reflects approximate dismissal rate ranges derived from federal bankruptcy court records. These are ranges, not exact point estimates, because rates fluctuate year to year. The purpose is to show the overall pattern and help you understand where your district falls relative to others.
 
@@ -561,9 +567,9 @@ Different bankruptcy judges with different approaches to plan confirmation and d
 
 Different local rules governing deadlines, payment methods, and plan requirements
 
-Different attorney pools -- some districts have more experienced consumer practitioners
+Different attorney pools - some districts have more experienced consumer practitioners
 
-Different economic conditions -- urban vs. rural, different industries, different cost of living
+Different economic conditions - urban vs. rural, different industries, different cost of living
 
 All 94 Districts by Circuit
 
@@ -833,7 +839,7 @@ Your bankruptcy district is based on where you live. Visit the U.S. Courts court
 
 Can I file in a different district to get better odds?
 
-No. Bankruptcy venue rules under 28 U.S.C. Section 1408 require you to file in the district where you have lived for the greater part of the prior 180 days. Filing in the wrong venue can result in dismissal or transfer of your case. The rules exist to prevent "forum shopping" -- choosing a court for strategic advantage rather than geographic appropriateness.
+No. Bankruptcy venue rules under 28 U.S.C. Section 1408 require you to file in the district where you have lived for the greater part of the prior 180 days. Filing in the wrong venue can result in dismissal or transfer of your case. The rules exist to prevent "forum shopping" - choosing a court for strategic advantage rather than geographic appropriateness.
 
 Explore Related Data
 
@@ -850,11 +856,11 @@ Subscribe
 
 Related Resources
 
-howtofilebankruptcy.org -- Filing guide with district-specific considerations
+howtofilebankruptcy.org - Filing guide with district-specific considerations
 
-1328f.org -- Research platform with interactive district data
+1328f.org - Research platform with interactive district data
 
-1328f.com -- Free bankruptcy discharge screener
+1328f.com - Free bankruptcy discharge screener
 
 Last updated: March 2026. Data sourced from federal bankruptcy court records (FJC Integrated Database).
 
@@ -871,16 +877,16 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy denial and dismissal:
 
 11 U.S.C. Section 707
-Cornell LII -- Chapter 7 dismissal
+Cornell LII - Chapter 7 dismissal
 
 11 U.S.C. Section 1307
-Cornell LII -- Chapter 13 dismissal
+Cornell LII - Chapter 13 dismissal
 
 Bankruptcy Basics
 USCourts.gov
 
 U.S. Trustee Program
-DOJ -- motions to dismiss
+DOJ - motions to dismiss
 
 CFPB: Bankruptcy Overview
 Consumer guide
@@ -985,15 +991,17 @@ After Dismissal
 
 Chapter 13 Dismissal Rates by State
 
-Federal court data reveals dramatic geographic variation in Chapter 13 outcomes. Your state -- and your specific district -- matters more than most people realize.
+Federal court data reveals dramatic geographic variation in Chapter 13 outcomes. Your state - and your specific district - matters more than most people realize.
+
+Home›Bankruptcy Dismissal Rates›Chapter 13 Dismissal Rates by State
 
 Geography Is Destiny in Chapter 13
 
 One of the most striking findings from federal bankruptcy court records is how much Chapter 13 outcomes vary by location. Two debtors with identical financial situations can face dramatically different odds of completing their plans depending on where they live.
 
-Federal court data shows that Chapter 13 dismissal rates range from under 30% in some districts to over 55% in others. That is not a small difference -- it means debtors in some parts of the country are roughly twice as likely to have their cases dismissed as debtors in others.
+Federal court data shows that Chapter 13 dismissal rates range from under 30% in some districts to over 55% in others. That is not a small difference - it means debtors in some parts of the country are roughly twice as likely to have their cases dismissed as debtors in others.
 
-This variation is not random. It follows clear regional patterns that have been documented by academic researchers, bankruptcy practitioners, and the federal judiciary itself. Understanding these patterns is essential for anyone considering a Chapter 13 filing -- or trying to understand why their case was dismissed.
+This variation is not random. It follows clear regional patterns that have been documented by academic researchers, bankruptcy practitioners, and the federal judiciary itself. Understanding these patterns is essential for anyone considering a Chapter 13 filing - or trying to understand why their case was dismissed.
 
 What Drives Geographic Variation?
 
@@ -1017,7 +1025,7 @@ Districts with more experienced consumer bankruptcy attorneys tend to have lower
 
 Economic Conditions
 
-Local economic conditions play a significant role. Districts with higher unemployment, lower median incomes, and less job stability see more Chapter 13 cases fail because debtors are more likely to experience income disruptions during a 3-to-5-year plan. Economic shocks -- plant closings, industry downturns, natural disasters -- can cause spikes in dismissals across an entire district.
+Local economic conditions play a significant role. Districts with higher unemployment, lower median incomes, and less job stability see more Chapter 13 cases fail because debtors are more likely to experience income disruptions during a 3-to-5-year plan. Economic shocks - plant closings, industry downturns, natural disasters - can cause spikes in dismissals across an entire district.
 
 Chapter Choice Patterns
 
@@ -1025,7 +1033,7 @@ In some states, local legal culture strongly favors Chapter 13 over Chapter 7, e
 
 Regional Dismissal Rate Patterns
 
-Federal court records reveal consistent regional patterns. The following table shows approximate dismissal rate ranges by region. These are generalizations -- individual districts within each region can vary significantly.
+Federal court records reveal consistent regional patterns. The following table shows approximate dismissal rate ranges by region. These are generalizations - individual districts within each region can vary significantly.
 
 Important: These ranges are approximate and vary by time period studied. They reflect patterns from federal court records across multiple years. Individual districts within each region may fall above or below the regional range.
 
@@ -1090,21 +1098,21 @@ Districts with different numbers of bankruptcy judges can have varying levels of
 
 Local legal culture can differ significantly even within neighboring districts
 
-This is why checking your specific district -- not just your state -- is essential. Our Check Your District page explains how to find your district's data.
+This is why checking your specific district - not just your state - is essential. Our Check Your District page explains how to find your district's data.
 
 What This Means for Access to Justice
 
-The dramatic geographic variation in Chapter 13 outcomes raises serious questions about equal access to justice. The bankruptcy code is federal law -- it applies the same way in every state. Yet a debtor's chances of completing a Chapter 13 plan vary enormously based on geography.
+The dramatic geographic variation in Chapter 13 outcomes raises serious questions about equal access to justice. The bankruptcy code is federal law - it applies the same way in every state. Yet a debtor's chances of completing a Chapter 13 plan vary enormously based on geography.
 
-This means that the promise of bankruptcy -- a fresh start for honest debtors -- is delivered unevenly across the country. Debtors in high-dismissal districts face steeper odds, often through no fault of their own. They may have fewer attorney options, stricter trustees, and local practices that make plan completion harder.
+This means that the promise of bankruptcy - a fresh start for honest debtors - is delivered unevenly across the country. Debtors in high-dismissal districts face steeper odds, often through no fault of their own. They may have fewer attorney options, stricter trustees, and local practices that make plan completion harder.
 
-Understanding these patterns is the first step toward addressing them. That is why we make this data freely available -- because transparency is a prerequisite for reform.
+Understanding these patterns is the first step toward addressing them. That is why we make this data freely available - because transparency is a prerequisite for reform.
 
 Frequently Asked Questions
 
 Which state has the highest Chapter 13 dismissal rate?
 
-Strictly speaking, dismissal rates are measured by federal judicial district, not by state. However, states in the Deep South -- particularly Alabama, Mississippi, and Tennessee -- contain the districts with the highest Chapter 13 dismissal rates. Some individual districts in these states have shown dismissal rates exceeding 50% across multiple study periods.
+Strictly speaking, dismissal rates are measured by federal judicial district, not by state. However, states in the Deep South - particularly Alabama, Mississippi, and Tennessee - contain the districts with the highest Chapter 13 dismissal rates. Some individual districts in these states have shown dismissal rates exceeding 50% across multiple study periods.
 
 Why do southern states have higher dismissal rates?
 
@@ -1112,7 +1120,7 @@ Multiple factors converge: a legal culture that favors Chapter 13 over Chapter 7
 
 Does my district's dismissal rate predict my case outcome?
 
-Your district's rate reflects the average outcome across all cases filed there. Your individual outcome depends on factors specific to your situation -- your income stability, how realistic your plan budget is, the quality of your attorney's work, and your ability to communicate with your trustee when problems arise. A high district dismissal rate is a warning sign that should prompt extra caution, not a guarantee that your case will fail.
+Your district's rate reflects the average outcome across all cases filed there. Your individual outcome depends on factors specific to your situation - your income stability, how realistic your plan budget is, the quality of your attorney's work, and your ability to communicate with your trustee when problems arise. A high district dismissal rate is a warning sign that should prompt extra caution, not a guarantee that your case will fail.
 
 Check Your Specific District
 
@@ -1129,13 +1137,13 @@ Subscribe
 
 Related Resources
 
-serialfiler.org -- Stay limits for repeat filers after dismissal
+serialfiler.org - Stay limits for repeat filers after dismissal
 
-bankruptcymalpractice.org -- When poor attorney work causes dismissal
+bankruptcymalpractice.org - When poor attorney work causes dismissal
 
-howtofilebankruptcy.org -- Filing guide with district-specific considerations
+howtofilebankruptcy.org - Filing guide with district-specific considerations
 
-1328f.org -- Research platform with district-level data
+1328f.org - Research platform with district-level data
 
 Last updated: March 2026. Data sourced from federal bankruptcy court records.
 
@@ -1152,16 +1160,16 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy denial and dismissal:
 
 11 U.S.C. Section 707
-Cornell LII -- Chapter 7 dismissal
+Cornell LII - Chapter 7 dismissal
 
 11 U.S.C. Section 1307
-Cornell LII -- Chapter 13 dismissal
+Cornell LII - Chapter 13 dismissal
 
 Bankruptcy Basics
 USCourts.gov
 
 U.S. Trustee Program
-DOJ -- motions to dismiss
+DOJ - motions to dismiss
 
 CFPB: Bankruptcy Overview
 Consumer guide
@@ -1248,7 +1256,1029 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## The First-Year Drop -- When Most Chapter 13 Cases Fail -- Dismissal Rate
+## Dismissal Rates - Central District of California
+Source: https://dismissalrate.org/districts/central-district-of-california.html
+
+dismissalrate.org
+
+1328f.com1328f.org
+
+Bankruptcy Dismissal Rates - Attorney Performance Data
+
+Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
+
+Home›Bankruptcy Dismissal Rates›Bankruptcy Dismissal Rates - Attorney Performance Data
+
+Dismissal Rates - Central District of California
+
+Free bankruptcy dismissal rate data for the Central District of California (CACB). Federal bankruptcy courts vary significantly by district - local judge practices, trustee behavior, and attorney quality all affect outcomes.
+
+The Central District of California is one of the busiest bankruptcy districts in the country.
+
+Local Resources
+
+Use the free screener at 1328f.com to check attorney performance data in this district.
+
+View all districts
+
+Check your eligibility:
+Free Discharge Screener
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Related Guides
+
+What is a Bankruptcy Mill?
+
+Open Bankruptcy Project
+
+Attorney Monitoring Dashboard
+
+Related Guides
+
+What Happens After Dismissal
+
+What happens after your case is dismissed
+
+dismissedbankruptcy.org →
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Dismissed Bankruptcy Cases
+
+Free bankruptcy information guide
+
+bankruptcydismissed.com →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Free Means Test Calculator -- meanstest.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+1328f.com1328f.org♥ Sponsor
+
+This site provides general information only and does not constitute legal advice. Consult a qualified attorney for your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Dismissal Rates - Eastern District of New York
+Source: https://dismissalrate.org/districts/eastern-district-of-new-york.html
+
+dismissalrate.org
+
+1328f.com1328f.org
+
+Bankruptcy Dismissal Rates - Attorney Performance Data
+
+Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
+
+Home›Bankruptcy Dismissal Rates›Bankruptcy Dismissal Rates - Attorney Performance Data
+
+Dismissal Rates - Eastern District of New York
+
+Free bankruptcy dismissal rate data for the Eastern District of New York (NYEB). Federal bankruptcy courts vary significantly by district - local judge practices, trustee behavior, and attorney quality all affect outcomes.
+
+The Eastern District of New York is one of the busiest bankruptcy districts in the country.
+
+Local Resources
+
+Use the free screener at 1328f.com to check attorney performance data in this district.
+
+View all districts
+
+Check your eligibility:
+Free Discharge Screener
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Related Guides
+
+What is a Bankruptcy Mill?
+
+Open Bankruptcy Project
+
+Attorney Monitoring Dashboard
+
+Related Guides
+
+What Happens After Dismissal
+
+What happens after your case is dismissed
+
+dismissedbankruptcy.org →
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Dismissed Bankruptcy Cases
+
+Free bankruptcy information guide
+
+bankruptcydismissed.com →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Free Means Test Calculator -- meanstest.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+1328f.com1328f.org♥ Sponsor
+
+This site provides general information only and does not constitute legal advice. Consult a qualified attorney for your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Dismissal Rates by District
+Source: https://dismissalrate.org/districts/
+
+dismissalrate.org
+
+1328f.com1328f.org
+
+Bankruptcy Dismissal Rates - Attorney Performance Data
+
+Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
+
+Dismissal Rates by District
+
+Select your federal bankruptcy district:
+
+Central District of California
+
+Southern District of Florida
+
+Northern District of Illinois
+
+Eastern District of New York
+
+Northern District of Georgia
+
+Western District of Tennessee
+
+Middle District of Florida
+
+Southern District of New York
+
+Northern District of Ohio
+
+Western District of Missouri
+
+Check your eligibility:
+Free Discharge Screener
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Related Guides
+
+What is a Bankruptcy Mill?
+
+Open Bankruptcy Project
+
+Attorney Monitoring Dashboard
+
+Related Guides
+
+What Happens After Dismissal
+
+What happens after your case is dismissed
+
+dismissedbankruptcy.org →
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Dismissed Bankruptcy Cases
+
+Free bankruptcy information guide
+
+bankruptcydismissed.com →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+1328f.com1328f.org♥ Sponsor
+
+This site provides general information only and does not constitute legal advice. Consult a qualified attorney for your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Dismissal Rates - Middle District of Florida
+Source: https://dismissalrate.org/districts/middle-district-of-florida.html
+
+dismissalrate.org
+
+1328f.com1328f.org
+
+Bankruptcy Dismissal Rates - Attorney Performance Data
+
+Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
+
+Home›Bankruptcy Dismissal Rates›Bankruptcy Dismissal Rates - Attorney Performance Data
+
+Dismissal Rates - Middle District of Florida
+
+Free bankruptcy dismissal rate data for the Middle District of Florida (FLMB). Federal bankruptcy courts vary significantly by district - local judge practices, trustee behavior, and attorney quality all affect outcomes.
+
+The Middle District of Florida is one of the busiest bankruptcy districts in the country.
+
+Local Resources
+
+Use the free screener at 1328f.com to check attorney performance data in this district.
+
+View all districts
+
+Check your eligibility:
+Free Discharge Screener
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Related Guides
+
+What is a Bankruptcy Mill?
+
+Open Bankruptcy Project
+
+Attorney Monitoring Dashboard
+
+Related Guides
+
+What Happens After Dismissal
+
+What happens after your case is dismissed
+
+dismissedbankruptcy.org →
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Dismissed Bankruptcy Cases
+
+Free bankruptcy information guide
+
+bankruptcydismissed.com →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Free Means Test Calculator -- meanstest.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+1328f.com1328f.org♥ Sponsor
+
+This site provides general information only and does not constitute legal advice. Consult a qualified attorney for your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Dismissal Rates - Northern District of Georgia
+Source: https://dismissalrate.org/districts/northern-district-of-georgia.html
+
+dismissalrate.org
+
+1328f.com1328f.org
+
+Bankruptcy Dismissal Rates - Attorney Performance Data
+
+Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
+
+Home›Bankruptcy Dismissal Rates›Bankruptcy Dismissal Rates - Attorney Performance Data
+
+Dismissal Rates - Northern District of Georgia
+
+Free bankruptcy dismissal rate data for the Northern District of Georgia (GANB). Federal bankruptcy courts vary significantly by district - local judge practices, trustee behavior, and attorney quality all affect outcomes.
+
+The Northern District of Georgia is one of the busiest bankruptcy districts in the country.
+
+Local Resources
+
+Use the free screener at 1328f.com to check attorney performance data in this district.
+
+View all districts
+
+Check your eligibility:
+Free Discharge Screener
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Related Guides
+
+What is a Bankruptcy Mill?
+
+Open Bankruptcy Project
+
+Attorney Monitoring Dashboard
+
+Related Guides
+
+What Happens After Dismissal
+
+What happens after your case is dismissed
+
+dismissedbankruptcy.org →
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Dismissed Bankruptcy Cases
+
+Free bankruptcy information guide
+
+bankruptcydismissed.com →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Free Means Test Calculator -- meanstest.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+1328f.com1328f.org♥ Sponsor
+
+This site provides general information only and does not constitute legal advice. Consult a qualified attorney for your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Dismissal Rates - Northern District of Illinois
+Source: https://dismissalrate.org/districts/northern-district-of-illinois.html
+
+dismissalrate.org
+
+1328f.com1328f.org
+
+Bankruptcy Dismissal Rates - Attorney Performance Data
+
+Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
+
+Home›Bankruptcy Dismissal Rates›Bankruptcy Dismissal Rates - Attorney Performance Data
+
+Dismissal Rates - Northern District of Illinois
+
+Free bankruptcy dismissal rate data for the Northern District of Illinois (ILNB). Federal bankruptcy courts vary significantly by district - local judge practices, trustee behavior, and attorney quality all affect outcomes.
+
+The Northern District of Illinois is one of the busiest bankruptcy districts in the country.
+
+Local Resources
+
+Use the free screener at 1328f.com to check attorney performance data in this district.
+
+View all districts
+
+Check your eligibility:
+Free Discharge Screener
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Related Guides
+
+What is a Bankruptcy Mill?
+
+Open Bankruptcy Project
+
+Attorney Monitoring Dashboard
+
+Related Guides
+
+What Happens After Dismissal
+
+What happens after your case is dismissed
+
+dismissedbankruptcy.org →
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Dismissed Bankruptcy Cases
+
+Free bankruptcy information guide
+
+bankruptcydismissed.com →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Free Means Test Calculator -- meanstest.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+1328f.com1328f.org♥ Sponsor
+
+This site provides general information only and does not constitute legal advice. Consult a qualified attorney for your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Dismissal Rates - Northern District of Ohio
+Source: https://dismissalrate.org/districts/northern-district-of-ohio.html
+
+dismissalrate.org
+
+1328f.com1328f.org
+
+Bankruptcy Dismissal Rates - Attorney Performance Data
+
+Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
+
+Home›Bankruptcy Dismissal Rates›Bankruptcy Dismissal Rates - Attorney Performance Data
+
+Dismissal Rates - Northern District of Ohio
+
+Free bankruptcy dismissal rate data for the Northern District of Ohio (OHNB). Federal bankruptcy courts vary significantly by district - local judge practices, trustee behavior, and attorney quality all affect outcomes.
+
+The Northern District of Ohio is one of the busiest bankruptcy districts in the country.
+
+Local Resources
+
+Use the free screener at 1328f.com to check attorney performance data in this district.
+
+View all districts
+
+Check your eligibility:
+Free Discharge Screener
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Related Guides
+
+What is a Bankruptcy Mill?
+
+Open Bankruptcy Project
+
+Attorney Monitoring Dashboard
+
+Related Guides
+
+What Happens After Dismissal
+
+What happens after your case is dismissed
+
+dismissedbankruptcy.org →
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Dismissed Bankruptcy Cases
+
+Free bankruptcy information guide
+
+bankruptcydismissed.com →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Free Means Test Calculator -- meanstest.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+1328f.com1328f.org♥ Sponsor
+
+This site provides general information only and does not constitute legal advice. Consult a qualified attorney for your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Dismissal Rates - Southern District of Florida
+Source: https://dismissalrate.org/districts/southern-district-of-florida.html
+
+dismissalrate.org
+
+1328f.com1328f.org
+
+Bankruptcy Dismissal Rates - Attorney Performance Data
+
+Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
+
+Home›Bankruptcy Dismissal Rates›Bankruptcy Dismissal Rates - Attorney Performance Data
+
+Dismissal Rates - Southern District of Florida
+
+Free bankruptcy dismissal rate data for the Southern District of Florida (FLSB). Federal bankruptcy courts vary significantly by district - local judge practices, trustee behavior, and attorney quality all affect outcomes.
+
+The Southern District of Florida is one of the busiest bankruptcy districts in the country.
+
+Local Resources
+
+Use the free screener at 1328f.com to check attorney performance data in this district.
+
+View all districts
+
+Check your eligibility:
+Free Discharge Screener
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Related Guides
+
+What is a Bankruptcy Mill?
+
+Open Bankruptcy Project
+
+Attorney Monitoring Dashboard
+
+Related Guides
+
+What Happens After Dismissal
+
+What happens after your case is dismissed
+
+dismissedbankruptcy.org →
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Dismissed Bankruptcy Cases
+
+Free bankruptcy information guide
+
+bankruptcydismissed.com →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Free Means Test Calculator -- meanstest.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+1328f.com1328f.org♥ Sponsor
+
+This site provides general information only and does not constitute legal advice. Consult a qualified attorney for your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Dismissal Rates - Southern District of New York
+Source: https://dismissalrate.org/districts/southern-district-of-new-york.html
+
+dismissalrate.org
+
+1328f.com1328f.org
+
+Bankruptcy Dismissal Rates - Attorney Performance Data
+
+Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
+
+Home›Bankruptcy Dismissal Rates›Bankruptcy Dismissal Rates - Attorney Performance Data
+
+Dismissal Rates - Southern District of New York
+
+Free bankruptcy dismissal rate data for the Southern District of New York (NYSB). Federal bankruptcy courts vary significantly by district - local judge practices, trustee behavior, and attorney quality all affect outcomes.
+
+The Southern District of New York is one of the busiest bankruptcy districts in the country.
+
+Local Resources
+
+Use the free screener at 1328f.com to check attorney performance data in this district.
+
+View all districts
+
+Check your eligibility:
+Free Discharge Screener
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Related Guides
+
+What is a Bankruptcy Mill?
+
+Open Bankruptcy Project
+
+Attorney Monitoring Dashboard
+
+Related Guides
+
+What Happens After Dismissal
+
+What happens after your case is dismissed
+
+dismissedbankruptcy.org →
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Dismissed Bankruptcy Cases
+
+Free bankruptcy information guide
+
+bankruptcydismissed.com →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Free Means Test Calculator -- meanstest.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+1328f.com1328f.org♥ Sponsor
+
+This site provides general information only and does not constitute legal advice. Consult a qualified attorney for your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Dismissal Rates - Western District of Missouri
+Source: https://dismissalrate.org/districts/western-district-of-missouri.html
+
+dismissalrate.org
+
+1328f.com1328f.org
+
+Bankruptcy Dismissal Rates - Attorney Performance Data
+
+Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
+
+Home›Bankruptcy Dismissal Rates›Bankruptcy Dismissal Rates - Attorney Performance Data
+
+Dismissal Rates - Western District of Missouri
+
+Free bankruptcy dismissal rate data for the Western District of Missouri (MOWB). Federal bankruptcy courts vary significantly by district - local judge practices, trustee behavior, and attorney quality all affect outcomes.
+
+The Western District of Missouri is one of the busiest bankruptcy districts in the country.
+
+Local Resources
+
+Use the free screener at 1328f.com to check attorney performance data in this district.
+
+View all districts
+
+Check your eligibility:
+Free Discharge Screener
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Related Guides
+
+What is a Bankruptcy Mill?
+
+Open Bankruptcy Project
+
+Attorney Monitoring Dashboard
+
+Related Guides
+
+What Happens After Dismissal
+
+What happens after your case is dismissed
+
+dismissedbankruptcy.org →
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Dismissed Bankruptcy Cases
+
+Free bankruptcy information guide
+
+bankruptcydismissed.com →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Free Means Test Calculator -- meanstest.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+1328f.com1328f.org♥ Sponsor
+
+This site provides general information only and does not constitute legal advice. Consult a qualified attorney for your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Dismissal Rates - Western District of Tennessee
+Source: https://dismissalrate.org/districts/western-district-of-tennessee.html
+
+dismissalrate.org
+
+1328f.com1328f.org
+
+Bankruptcy Dismissal Rates - Attorney Performance Data
+
+Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
+
+Home›Bankruptcy Dismissal Rates›Bankruptcy Dismissal Rates - Attorney Performance Data
+
+Dismissal Rates - Western District of Tennessee
+
+Free bankruptcy dismissal rate data for the Western District of Tennessee (TNWB). Federal bankruptcy courts vary significantly by district - local judge practices, trustee behavior, and attorney quality all affect outcomes.
+
+The Western District of Tennessee is one of the busiest bankruptcy districts in the country.
+
+Local Resources
+
+Use the free screener at 1328f.com to check attorney performance data in this district.
+
+View all districts
+
+Check your eligibility:
+Free Discharge Screener
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+Related Guides
+
+What is a Bankruptcy Mill?
+
+Open Bankruptcy Project
+
+Attorney Monitoring Dashboard
+
+Related Guides
+
+What Happens After Dismissal
+
+What happens after your case is dismissed
+
+dismissedbankruptcy.org →
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Dismissed Bankruptcy Cases
+
+Free bankruptcy information guide
+
+bankruptcydismissed.com →
+
+Chapter 7 vs Chapter 13
+
+Side-by-side comparison to pick your chapter
+
+chapter7vs13.org →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Free Means Test Calculator -- meanstest.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+1328f.com1328f.org♥ Sponsor
+
+This site provides general information only and does not constitute legal advice. Consult a qualified attorney for your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## The First-Year Drop - When Most Chapter 13 Cases Fail - Dismissal Rate
 Source: https://dismissalrate.org/first-year-drop.html
 
 Skip to main content
@@ -1266,23 +2296,25 @@ After Dismissal
 
 The First-Year Drop
 
-Federal court data shows that more Chapter 13 cases fail in the first 12 months than in any other period. Understanding why -- and planning for it -- is critical.
+Federal court data shows that more Chapter 13 cases fail in the first 12 months than in any other period. Understanding why - and planning for it - is critical.
+
+Home›Bankruptcy Dismissal Rates›The First-Year Drop
 
 The Critical Window
 
-If your Chapter 13 case is going to fail, the most likely time is the first year. Federal court data shows that approximately 35-45% of all Chapter 13 dismissals occur within the first 12 months of filing. The first six months are especially dangerous -- a significant share of cases never even reach plan confirmation.
+If your Chapter 13 case is going to fail, the most likely time is the first year. Federal court data shows that approximately 35-45% of all Chapter 13 dismissals occur within the first 12 months of filing. The first six months are especially dangerous - a significant share of cases never even reach plan confirmation.
 
 This pattern is consistent across districts, though the intensity varies. In high-dismissal districts, the first-year drop can account for half or more of all dismissals. In lower-dismissal districts, the curve is flatter but the first year still represents the peak risk period.
 
-Understanding this pattern is not cause for despair -- it is cause for preparation. If you know that year 1 is the hardest, you can plan specifically for it.
+Understanding this pattern is not cause for despair - it is cause for preparation. If you know that year 1 is the hardest, you can plan specifically for it.
 
 Why Year 1 Is the Hardest
 
 Payment Shock
 
-Under 11 U.S.C. Section 1326(a)(1), debtors must begin making plan payments within 30 days of filing -- before the plan is confirmed, before the 341 meeting, and often before the debtor has fully adjusted to the new financial reality. This "payment shock" is the single biggest first-year challenge.
+Under 11 U.S.C. Section 1326(a)(1), debtors must begin making plan payments within 30 days of filing - before the plan is confirmed, before the 341 meeting, and often before the debtor has fully adjusted to the new financial reality. This "payment shock" is the single biggest first-year challenge.
 
-Before filing, many debtors have been robbing Peter to pay Paul -- using credit cards to cover gaps, skipping payments to some creditors, or depleting savings. When the case is filed, they must suddenly begin a structured monthly payment that may be higher than what they were actually paying before. The adjustment is jarring.
+Before filing, many debtors have been robbing Peter to pay Paul - using credit cards to cover gaps, skipping payments to some creditors, or depleting savings. When the case is filed, they must suddenly begin a structured monthly payment that may be higher than what they were actually paying before. The adjustment is jarring.
 
 Unrealistic Budgets
 
@@ -1314,7 +2346,7 @@ Federal court data shows that a meaningful percentage of Chapter 13 cases are di
 
 Life Has Not Stabilized
 
-Many people file Chapter 13 during a period of financial crisis -- after a job loss, medical emergency, or divorce. The crisis that triggered the filing may not be fully resolved by the time payments begin. If income has not stabilized, or if the debtor is still dealing with the aftermath of the triggering event, the first year is when the plan is most likely to buckle.
+Many people file Chapter 13 during a period of financial crisis - after a job loss, medical emergency, or divorce. The crisis that triggered the filing may not be fully resolved by the time payments begin. If income has not stabilized, or if the debtor is still dealing with the aftermath of the triggering event, the first year is when the plan is most likely to buckle.
 
 Compliance Requirements
 
@@ -1349,7 +2381,7 @@ Post-confirmation
 Missed plan payments, income disruption, failure to file tax returns, insurance lapse
 Emergency buffer in budget, early communication with trustee, plan modification if needed
 
-Pre-confirmation dismissals often indicate problems with the attorney's preparation work -- filing before the debtor was ready, submitting incomplete schedules, or proposing an infeasible plan. Post-confirmation dismissals more often reflect real-world financial changes that the debtor could not predict.
+Pre-confirmation dismissals often indicate problems with the attorney's preparation work - filing before the debtor was ready, submitting incomplete schedules, or proposing an infeasible plan. Post-confirmation dismissals more often reflect real-world financial changes that the debtor could not predict.
 
 The Data: Year 1 vs. Later Years
 
@@ -1367,17 +2399,17 @@ The implications are clear: if you can survive year 1, your odds of completing t
 
 How to Survive Year 1
 
-Build an emergency buffer before filing. If possible, save at least one month's plan payment before your case is filed. This gives you a cushion if an unexpected expense hits in the first few months. Discuss timing with your attorney -- sometimes waiting an extra month to file while building a buffer is worth it.
+Build an emergency buffer before filing. If possible, save at least one month's plan payment before your case is filed. This gives you a cushion if an unexpected expense hits in the first few months. Discuss timing with your attorney - sometimes waiting an extra month to file while building a buffer is worth it.
 
 Set up automatic payments. Districts that use wage orders (payroll deduction) have higher completion rates. If your district allows direct payments, set up automatic bank transfers rather than relying on mailing checks. Automation removes the risk of forgetting or being tempted to skip a payment.
 
-Communicate early about problems. If you lose your job, have a medical emergency, or face any financial disruption, contact your attorney immediately -- not after you have missed two or three payments. Early communication opens more options: plan modification, temporary payment reduction, or arrangement with the trustee.
+Communicate early about problems. If you lose your job, have a medical emergency, or face any financial disruption, contact your attorney immediately - not after you have missed two or three payments. Early communication opens more options: plan modification, temporary payment reduction, or arrangement with the trustee.
 
 Complete all compliance requirements promptly. Do not wait until the last minute for your 341 meeting preparation, tax return filing, or debtor education course. Get these done as early as possible so they are not hanging over your case.
 
-Understand your modification options. If your circumstances change, you can request a plan modification under 11 U.S.C. Section 1329. This can lower your monthly payment, extend your plan, or change how creditors are treated. Modification is not failure -- it is a tool built into the system for exactly this purpose.
+Understand your modification options. If your circumstances change, you can request a plan modification under 11 U.S.C. Section 1329. This can lower your monthly payment, extend your plan, or change how creditors are treated. Modification is not failure - it is a tool built into the system for exactly this purpose.
 
-Track your own payments. Do not rely solely on the trustee's records. Keep your own log of every payment -- when it was made, the amount, and the method. If there is ever a dispute about whether you paid, your records will be essential.
+Track your own payments. Do not rely solely on the trustee's records. Keep your own log of every payment - when it was made, the amount, and the method. If there is ever a dispute about whether you paid, your records will be essential.
 
 Frequently Asked Questions
 
@@ -1387,7 +2419,7 @@ Federal court data shows that the first 12 months account for approximately 35-4
 
 What happens if I miss a payment in the first year?
 
-A missed payment will typically prompt a notice from the trustee, followed by a motion to dismiss if the default is not cured. The timeline varies by district -- some trustees file quickly, others give more time. Your options include catching up on missed payments, requesting a plan modification to lower payments, or communicating with the trustee to arrange a cure schedule. The critical step is to act before the motion to dismiss is filed.
+A missed payment will typically prompt a notice from the trustee, followed by a motion to dismiss if the default is not cured. The timeline varies by district - some trustees file quickly, others give more time. Your options include catching up on missed payments, requesting a plan modification to lower payments, or communicating with the trustee to arrange a cure schedule. The critical step is to act before the motion to dismiss is filed.
 
 Can I modify my Chapter 13 plan in the first year?
 
@@ -1408,11 +2440,11 @@ Subscribe
 
 Related Resources
 
-chapter13plan.org -- Understanding your Chapter 13 plan
+chapter13plan.org - Understanding your Chapter 13 plan
 
-bankruptcyhardship.org -- Hardship discharge when plans become impossible
+bankruptcyhardship.org - Hardship discharge when plans become impossible
 
-section1328.org -- Chapter 13 discharge requirements
+section1328.org - Chapter 13 discharge requirements
 
 Last updated: March 2026. Data sourced from federal bankruptcy court records.
 
@@ -1429,16 +2461,16 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy denial and dismissal:
 
 11 U.S.C. Section 707
-Cornell LII -- Chapter 7 dismissal
+Cornell LII - Chapter 7 dismissal
 
 11 U.S.C. Section 1307
-Cornell LII -- Chapter 13 dismissal
+Cornell LII - Chapter 13 dismissal
 
 Bankruptcy Basics
 USCourts.gov
 
 U.S. Trustee Program
-DOJ -- motions to dismiss
+DOJ - motions to dismiss
 
 CFPB: Bankruptcy Overview
 Consumer guide
@@ -1539,9 +2571,11 @@ Why Plans Fail
 Attorney Impact
 After Dismissal
 
-Bankruptcy Dismissal Rates -- Attorney Performance Data
+Bankruptcy Dismissal Rates - Attorney Performance Data
 
 Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
+
+Home›Bankruptcy Dismissal Rates›Bankruptcy Dismissal Rates - Attorney Performance Data
 
 Free Screener at 1328f.com
 
@@ -1557,7 +2591,7 @@ Total cases filed in the district. Number dismissed vs discharged. Dismissal rat
 
 A dismissal rate above the district average is a red flag. The national Chapter 13 dismissal rate is approximately 40-50%, but it varies significantly by district. Some districts dismiss fewer than 30% of cases while others exceed 60%. An individual attorney whose clients are dismissed at rates well above the district norm may be filing cases without adequate preparation, failing to file required documents on time, or taking on clients who are not good candidates for Chapter 13.
 
-Look specifically for patterns of bare petition filings -- cases filed with only the petition and no schedules. This often indicates an attorney filing cases primarily to trigger the automatic stay without intending to prosecute the case to completion. The FJC Integrated Database tracks case outcomes across all 94 federal bankruptcy districts, making cross-district comparisons possible for the first time.
+Look specifically for patterns of bare petition filings - cases filed with only the petition and no schedules. This often indicates an attorney filing cases primarily to trigger the automatic stay without intending to prosecute the case to completion. The FJC Integrated Database tracks case outcomes across all 94 federal bankruptcy districts, making cross-district comparisons possible for the first time.
 
 Check an attorney now
 
@@ -1576,16 +2610,16 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy denial and dismissal:
 
 11 U.S.C. Section 707
-Cornell LII -- Chapter 7 dismissal
+Cornell LII - Chapter 7 dismissal
 
 11 U.S.C. Section 1307
-Cornell LII -- Chapter 13 dismissal
+Cornell LII - Chapter 13 dismissal
 
 Bankruptcy Basics
 USCourts.gov
 
 U.S. Trustee Program
-DOJ -- motions to dismiss
+DOJ - motions to dismiss
 
 CFPB: Bankruptcy Overview
 Consumer guide
@@ -1665,7 +2699,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Bankruptcy Dismissal Rate by District -- 2026 Data
+## Bankruptcy Dismissal Rate by District - 2026 Data
 Source: https://dismissalrate.org/
 
 🌐 Esta pagina esta disponible en Espanol
@@ -1683,7 +2717,7 @@ Why Plans Fail
 Attorney Impact
 After Dismissal
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
 Bankruptcy Dismissal Rate by District
 
@@ -1697,15 +2731,15 @@ Why this matters: Debtors should understand the success rate in their district. 
 
 Factors Influencing Dismissal Rates
 
-Income stability -- Job loss during a 3-5 year plan is the most common cause
+Income stability - Job loss during a 3-5 year plan is the most common cause
 
-Plan feasibility -- Aggressive plans with little margin fail more often
+Plan feasibility - Aggressive plans with little margin fail more often
 
-Attorney quality -- Experience and caseload correlate with outcomes. A high dismissal rate may indicate attorney negligence in case preparation.
+Attorney quality - Experience and caseload correlate with outcomes. A high dismissal rate may indicate attorney negligence in case preparation.
 
-Local legal culture -- Trustee practices, judge expectations vary by district
+Local legal culture - Trustee practices, judge expectations vary by district
 
-Payment mechanisms -- Wage orders have higher completion rates
+Payment mechanisms - Wage orders have higher completion rates
 
 After Dismissal
 
@@ -1764,11 +2798,11 @@ Subscribe
 
 Related Resources
 
-what happens after bankruptcy dismissal -- What to do after dismissal
+what happens after bankruptcy dismissal - What to do after dismissal
 
-Section 109(g) filing bars -- 180-day filing bar
+Section 109(g) filing bars - 180-day filing bar
 
-serial filing rules and waiting periods -- Stay limits for repeat filers
+serial filing rules and waiting periods - Stay limits for repeat filers
 
 Related Guides
 
@@ -1783,16 +2817,16 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy denial and dismissal:
 
 11 U.S.C. Section 707
-Cornell LII -- Chapter 7 dismissal
+Cornell LII - Chapter 7 dismissal
 
 11 U.S.C. Section 1307
-Cornell LII -- Chapter 13 dismissal
+Cornell LII - Chapter 13 dismissal
 
 Bankruptcy Basics
 USCourts.gov
 
 U.S. Trustee Program
-DOJ -- motions to dismiss
+DOJ - motions to dismiss
 
 CFPB: Bankruptcy Overview
 Consumer guide
@@ -1834,7 +2868,7 @@ chapter7vs13.org →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Rebuild Your Credit
 
@@ -2004,7 +3038,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Your Bankruptcy Was Dismissed -- What Are Your Options Now? -- Dismissal Rate
+## Your Bankruptcy Was Dismissed - What Are Your Options Now? - Dismissal Rate
 Source: https://dismissalrate.org/recovery-options.html
 
 Skip to main content
@@ -2020,15 +3054,17 @@ Why Plans Fail
 Attorney Impact
 After Dismissal
 
-Your Bankruptcy Was Dismissed -- What Now?
+Your Bankruptcy Was Dismissed - What Now?
 
 Dismissal is not the end of the road. You have options, and understanding them is the first step toward moving forward.
+
+Home›Bankruptcy Dismissal Rates›Your Bankruptcy Was Dismissed - What Now?
 
 Do Not Panic
 
 Having your bankruptcy case dismissed is stressful, but it is not a catastrophe. Hundreds of thousands of bankruptcy cases are dismissed every year. Many of those debtors go on to successfully refile, negotiate with creditors, or find other solutions to their financial problems.
 
-The key is to act quickly and deliberately. When your case is dismissed, the automatic stay lifts and creditors can resume collection activities. The clock is ticking on several fronts -- but you have more options than you might think.
+The key is to act quickly and deliberately. When your case is dismissed, the automatic stay lifts and creditors can resume collection activities. The clock is ticking on several fronts - but you have more options than you might think.
 
 Immediate Consequences of Dismissal
 
@@ -2046,15 +3082,15 @@ Credit report impact. The dismissed filing remains on your credit report for 7-1
 
 Option 1: Refile Bankruptcy
 
-The most common path after dismissal is to refile -- either the same chapter or a different one. But timing and preparation matter enormously.
+The most common path after dismissal is to refile - either the same chapter or a different one. But timing and preparation matter enormously.
 
 Timing Restrictions
 
 Two sets of rules affect when and how you can refile:
 
-11 U.S.C. Section 109(g) -- 180-day filing bar: Applies if your case was dismissed for willful failure to obey court orders, or if you voluntarily dismissed after a creditor filed for stay relief. If 109(g) applies, you must wait 180 days before refiling. See 109g.org for details.
+11 U.S.C. Section 109(g) - 180-day filing bar: Applies if your case was dismissed for willful failure to obey court orders, or if you voluntarily dismissed after a creditor filed for stay relief. If 109(g) applies, you must wait 180 days before refiling. See 109g.org for details.
 
-11 U.S.C. Section 362(c) -- Stay limitations: Even if you can refile immediately, your automatic stay may be limited. One dismissal in the prior year = stay expires after 30 days (362(c)(3)). Two or more dismissals = no stay without court order (362(c)(4)). See automaticstay.org.
+11 U.S.C. Section 362(c) - Stay limitations: Even if you can refile immediately, your automatic stay may be limited. One dismissal in the prior year = stay expires after 30 days (362(c)(3)). Two or more dismissals = no stay without court order (362(c)(4)). See automaticstay.org.
 
 Same Chapter or Different?
 
@@ -2090,7 +3126,7 @@ Build a more realistic budget. If your last plan failed because payments were to
 
 Address the triggering event. If job loss caused the dismissal, make sure your income has stabilized before refiling. If medical expenses were the issue, has the situation resolved?
 
-Consider a different attorney. If your attorney's work contributed to the dismissal -- unrealistic plan design, poor communication, failure to modify -- a different attorney may produce a different outcome.
+Consider a different attorney. If your attorney's work contributed to the dismissal - unrealistic plan design, poor communication, failure to modify - a different attorney may produce a different outcome.
 
 Gather all documents in advance. Tax returns, pay stubs, bank statements, insurance policies. Have everything ready before filing so the case starts clean.
 
@@ -2098,7 +3134,7 @@ Set up wage orders if available. Payroll deduction for plan payments significant
 
 Option 2: Convert Instead of Dismiss
 
-If your case has not yet been dismissed -- if you are facing a motion to dismiss but it has not been granted -- you may be able to convert to a different chapter instead.
+If your case has not yet been dismissed - if you are facing a motion to dismiss but it has not been granted - you may be able to convert to a different chapter instead.
 
 11 U.S.C. Section 1307(a): A Chapter 13 debtor may convert to Chapter 7 at any time. This right is nearly absolute (except for cases previously converted from Chapter 7).
 
@@ -2134,13 +3170,13 @@ Depending on your state, there may be non-bankruptcy legal options:
 
 Assignment for benefit of creditors (ABC): Available in some states as a state-law alternative to bankruptcy liquidation. An assignee distributes your assets to creditors.
 
-State exemption protections: Many states protect certain property from creditor collection even outside of bankruptcy -- homestead exemptions, wage garnishment limits, protected retirement accounts.
+State exemption protections: Many states protect certain property from creditor collection even outside of bankruptcy - homestead exemptions, wage garnishment limits, protected retirement accounts.
 
 Statute of limitations: Old debts may be past the statute of limitations for collection lawsuits. If a creditor cannot sue you, their leverage is significantly reduced.
 
 Option 5: Do Nothing (Judgment-Proof Analysis)
 
-In some situations, the best option may be to do nothing -- at least temporarily. If you are "judgment-proof," meaning you have no non-exempt assets and your income is protected from garnishment, creditors may not be able to collect even with a court judgment.
+In some situations, the best option may be to do nothing - at least temporarily. If you are "judgment-proof," meaning you have no non-exempt assets and your income is protected from garnishment, creditors may not be able to collect even with a court judgment.
 
 You may be effectively judgment-proof if:
 
@@ -2154,7 +3190,7 @@ You own no vehicles beyond what is exempt
 
 You have no wages that can be garnished (because income is exempt or you are not working)
 
-Being judgment-proof does not eliminate the debt -- creditors can still call, send letters, and obtain judgments. But if they cannot actually collect, the practical impact is limited. This situation may change if your financial circumstances improve.
+Being judgment-proof does not eliminate the debt - creditors can still call, send letters, and obtain judgments. But if they cannot actually collect, the practical impact is limited. This situation may change if your financial circumstances improve.
 
 Important: Judgments can be renewed and may last for many years. If you become employed or acquire assets in the future, old judgments can be enforced. "Doing nothing" is a viable short-term strategy but has long-term risks. Consult with an attorney about your specific situation.
 
@@ -2174,7 +3210,7 @@ Frequently Asked Questions
 
 How soon can I refile after dismissal?
 
-If your case was dismissed without prejudice and the 109(g) 180-day bar does not apply, you can refile immediately. However, if you had a case dismissed within the prior year, your automatic stay will be limited under 362(c)(3) (expires after 30 days) or 362(c)(4) (no stay at all if two or more dismissals). Plan accordingly -- you may need to file a motion to extend or impose the stay in your new case.
+If your case was dismissed without prejudice and the 109(g) 180-day bar does not apply, you can refile immediately. However, if you had a case dismissed within the prior year, your automatic stay will be limited under 362(c)(3) (expires after 30 days) or 362(c)(4) (no stay at all if two or more dismissals). Plan accordingly - you may need to file a motion to extend or impose the stay in your new case.
 
 Will I get the automatic stay again if I refile?
 
@@ -2186,7 +3222,7 @@ It depends on why the previous case failed and what you need. If you could not s
 
 Do I need a different attorney?
 
-Not necessarily, but evaluate honestly. If the plan was unrealistic from the start, if your attorney did not communicate or respond to problems, if no modification was attempted when circumstances changed -- these are signs that different representation could produce a different outcome. Check your attorney's overall dismissal rate compared to the district average using the resources at how to check your district.
+Not necessarily, but evaluate honestly. If the plan was unrealistic from the start, if your attorney did not communicate or respond to problems, if no modification was attempted when circumstances changed - these are signs that different representation could produce a different outcome. Check your attorney's overall dismissal rate compared to the district average using the resources at how to check your district.
 
 Understand What Led to Dismissal
 
@@ -2203,13 +3239,13 @@ Subscribe
 
 Related Resources
 
-109g.org -- The 180-day filing bar after dismissal
+109g.org - The 180-day filing bar after dismissal
 
-canifileagain.org -- Refiling eligibility after dismissal
+canifileagain.org - Refiling eligibility after dismissal
 
-automaticstay.org -- Automatic stay and 362(c) repeat filer limits
+automaticstay.org - Automatic stay and 362(c) repeat filer limits
 
-serialfiler.org -- Stay limits for repeat filers
+serialfiler.org - Stay limits for repeat filers
 
 Last updated: March 2026. Data sourced from federal bankruptcy court records.
 
@@ -2226,16 +3262,16 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy denial and dismissal:
 
 11 U.S.C. Section 707
-Cornell LII -- Chapter 7 dismissal
+Cornell LII - Chapter 7 dismissal
 
 11 U.S.C. Section 1307
-Cornell LII -- Chapter 13 dismissal
+Cornell LII - Chapter 13 dismissal
 
 Bankruptcy Basics
 USCourts.gov
 
 U.S. Trustee Program
-DOJ -- motions to dismiss
+DOJ - motions to dismiss
 
 CFPB: Bankruptcy Overview
 Consumer guide
@@ -2322,7 +3358,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Voluntary Dismissal vs. Court-Ordered Dismissal in Bankruptcy -- Dismissal Rate
+## Voluntary Dismissal vs. Court-Ordered Dismissal in Bankruptcy - Dismissal Rate
 Source: https://dismissalrate.org/voluntary-vs-court.html
 
 Skip to main content
@@ -2342,6 +3378,8 @@ Voluntary vs. Court-Ordered Dismissal
 
 Not all bankruptcy dismissals are the same. Understanding the difference between voluntary and involuntary dismissal affects your rights and future options.
 
+Home›Bankruptcy Dismissal Rates›Voluntary vs. Court-Ordered Dismissal
+
 Two Types of Dismissal
 
 When a bankruptcy case is dismissed, it can happen in one of two fundamentally different ways:
@@ -2358,7 +3396,7 @@ Chapter 13: An Almost Absolute Right
 
 11 U.S.C. Section 1307(b): "On request of the debtor at any time, if the case has not been converted under section 706, 1112, or 1208 of this title, the court shall dismiss a case under this chapter."
 
-In Chapter 13, the debtor's right to voluntary dismissal is nearly absolute. The word "shall" in the statute means the court must grant the request -- it is not discretionary. Courts have consistently upheld this right, and it can be exercised at any time during the case.
+In Chapter 13, the debtor's right to voluntary dismissal is nearly absolute. The word "shall" in the statute means the court must grant the request - it is not discretionary. Courts have consistently upheld this right, and it can be exercised at any time during the case.
 
 The only exception is if the case was previously converted from another chapter (such as Chapter 7 or Chapter 11). In that situation, the court has discretion rather than an obligation to dismiss.
 
@@ -2376,11 +3414,11 @@ Avoid conditions that the court might attach to an involuntary dismissal
 
 Chapter 7: Much Harder
 
-In Chapter 7, voluntary dismissal is not a right -- it requires court approval under 11 U.S.C. Section 707(a). The court considers whether dismissal would prejudice creditors. If a Chapter 7 trustee has identified assets to liquidate, the court may deny the debtor's request to dismiss. This is a significant difference from Chapter 13.
+In Chapter 7, voluntary dismissal is not a right - it requires court approval under 11 U.S.C. Section 707(a). The court considers whether dismissal would prejudice creditors. If a Chapter 7 trustee has identified assets to liquidate, the court may deny the debtor's request to dismiss. This is a significant difference from Chapter 13.
 
 Court-Ordered (Involuntary) Dismissal
 
-Court-ordered dismissal happens when someone other than the debtor -- typically the Chapter 13 trustee, a creditor, or the court itself -- moves to dismiss the case. The grounds for involuntary dismissal in Chapter 13 are listed in 11 U.S.C. Section 1307(c):
+Court-ordered dismissal happens when someone other than the debtor - typically the Chapter 13 trustee, a creditor, or the court itself - moves to dismiss the case. The grounds for involuntary dismissal in Chapter 13 are listed in 11 U.S.C. Section 1307(c):
 
 Unreasonable delay: The debtor is not making progress toward plan confirmation or completion
 
@@ -2428,13 +3466,13 @@ The case was filed primarily to delay foreclosure or other creditor action witho
 
 Impact on Future Filings
 
-Any dismissal -- voluntary or involuntary -- can affect your ability to file again and the protection you receive in a future case:
+Any dismissal - voluntary or involuntary - can affect your ability to file again and the protection you receive in a future case:
 
 The 109(g) Filing Bar
 
 11 U.S.C. Section 109(g): A 180-day filing bar applies if: (1) the case was dismissed for the debtor's willful failure to abide by court orders or appear before the court, OR (2) the debtor voluntarily dismissed the case after a creditor filed a motion for relief from the automatic stay.
 
-This means that not all dismissals trigger the 109(g) bar. A purely voluntary dismissal unrelated to a stay relief motion generally does not impose the 180-day wait. But if you dismiss your case after a creditor has moved for Automatic Stay -- Open Bankruptcy Project" target="_blank" rel="noopener">Automatic Stay -- Open Bankruptcy Project" target="_blank" rel="noopener">Automatic Stay -- Open Bankruptcy Project" target="_blank" rel="noopener">Automatic Stay -- Open Bankruptcy Project" target="_blank" rel="noopener">Automatic Stay -- Open Bankruptcy Project" target="_blank" rel="noopener">relief from stay, the bar applies. Learn more at 109g.org.
+This means that not all dismissals trigger the 109(g) bar. A purely voluntary dismissal unrelated to a stay relief motion generally does not impose the 180-day wait. But if you dismiss your case after a creditor has moved for relief from stay, the bar applies. Learn more at 109g.org.
 
 The 362(c) Stay Limitations
 
@@ -2472,7 +3510,7 @@ Frequently Asked Questions
 
 Can I voluntarily dismiss my Chapter 13 at any time?
 
-Yes, under 11 U.S.C. Section 1307(b), you have an almost absolute right to dismiss your Chapter 13 case at any time, as long as the case was not previously converted from another chapter. The court "shall" dismiss upon your request -- it is mandatory, not discretionary.
+Yes, under 11 U.S.C. Section 1307(b), you have an almost absolute right to dismiss your Chapter 13 case at any time, as long as the case was not previously converted from another chapter. The court "shall" dismiss upon your request - it is mandatory, not discretionary.
 
 What is the difference between dismissal with and without prejudice?
 
@@ -2480,7 +3518,7 @@ Dismissal without prejudice means you can refile a new case (subject to timing r
 
 Does voluntary dismissal trigger the 180-day filing bar?
 
-Not automatically. The 180-day bar under 11 U.S.C. Section 109(g) applies to voluntary dismissals only if the dismissal occurred after a creditor filed a motion for relief from the automatic stay. A voluntary dismissal for other reasons -- such as wanting to refile with a better plan -- generally does not trigger the 109(g) bar.
+Not automatically. The 180-day bar under 11 U.S.C. Section 109(g) applies to voluntary dismissals only if the dismissal occurred after a creditor filed a motion for relief from the automatic stay. A voluntary dismissal for other reasons - such as wanting to refile with a better plan - generally does not trigger the 109(g) bar.
 
 Should I dismiss or convert my Chapter 13?
 
@@ -2501,13 +3539,13 @@ Subscribe
 
 Related Resources
 
-109g.org -- The 180-day filing bar explained
+109g.org - The 180-day filing bar explained
 
-dismissedbankruptcy.org -- What to do after dismissal
+dismissedbankruptcy.org - What to do after dismissal
 
-canifileagain.org -- Refiling after dismissal
+canifileagain.org - Refiling after dismissal
 
-serialfiler.org -- Stay limitations for repeat filers
+serialfiler.org - Stay limitations for repeat filers
 
 Last updated: March 2026. Data sourced from federal bankruptcy court records.
 
@@ -2524,16 +3562,16 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy denial and dismissal:
 
 11 U.S.C. Section 707
-Cornell LII -- Chapter 7 dismissal
+Cornell LII - Chapter 7 dismissal
 
 11 U.S.C. Section 1307
-Cornell LII -- Chapter 13 dismissal
+Cornell LII - Chapter 13 dismissal
 
 Bankruptcy Basics
 USCourts.gov
 
 U.S. Trustee Program
-DOJ -- motions to dismiss
+DOJ - motions to dismiss
 
 CFPB: Bankruptcy Overview
 Consumer guide
@@ -2634,21 +3672,23 @@ Why Plans Fail
 Attorney Impact
 After Dismissal
 
-Bankruptcy Dismissal Rates -- Attorney Performance Data
+Bankruptcy Dismissal Rates - Attorney Performance Data
 
 Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
 
+Home›Bankruptcy Dismissal Rates›Bankruptcy Dismissal Rates - Attorney Performance Data
+
 Above District Average
 
-Every district has a baseline dismissal rate reflecting local conditions -- judge behavior, debtor demographics, economic factors. When an attorney's rate is significantly above this baseline, it controls for everything except the attorney. The variation is the attorney.
+Every district has a baseline dismissal rate reflecting local conditions - judge behavior, debtor demographics, economic factors. When an attorney's rate is significantly above this baseline, it controls for everything except the attorney. The variation is the attorney.
 
 Possible Causes
 
-High volume with low individual attention (mill practices). Bare petition filings without complete schedules. Failure to modify plans when client circumstances change. Poor client screening -- filing cases that should not have been filed. Inadequate communication causing clients to miss deadlines or payments.
+High volume with low individual attention (mill practices). Bare petition filings without complete schedules. Failure to modify plans when client circumstances change. Poor client screening - filing cases that should not have been filed. Inadequate communication causing clients to miss deadlines or payments.
 
 What It Does NOT Mean
 
-Some dismissals are legitimate -- the debtor voluntarily dismisses, gets a better deal outside bankruptcy, or converts to a different chapter. A single dismissed case is not evidence of malpractice. But a pattern -- consistently above the district average across dozens or hundreds of cases -- suggests a systemic problem.
+Some dismissals are legitimate - the debtor voluntarily dismisses, gets a better deal outside bankruptcy, or converts to a different chapter. A single dismissed case is not evidence of malpractice. But a pattern - consistently above the district average across dozens or hundreds of cases - suggests a systemic problem.
 
 Learn about malpractice
 
@@ -2667,16 +3707,16 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy denial and dismissal:
 
 11 U.S.C. Section 707
-Cornell LII -- Chapter 7 dismissal
+Cornell LII - Chapter 7 dismissal
 
 11 U.S.C. Section 1307
-Cornell LII -- Chapter 13 dismissal
+Cornell LII - Chapter 13 dismissal
 
 Bankruptcy Basics
 USCourts.gov
 
 U.S. Trustee Program
-DOJ -- motions to dismiss
+DOJ - motions to dismiss
 
 CFPB: Bankruptcy Overview
 Consumer guide
@@ -2756,7 +3796,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Why Do Chapter 13 Plans Fail? The Data Behind Bankruptcy Dismissals -- Dismissal Rate
+## Why Do Chapter 13 Plans Fail? The Data Behind Bankruptcy Dismissals - Dismissal Rate
 Source: https://dismissalrate.org/why-chapter-13-fail.html
 
 Skip to main content
@@ -2774,13 +3814,15 @@ After Dismissal
 
 Why Do Chapter 13 Plans Fail?
 
-Federal court data reveals why roughly 1 in 3 confirmed Chapter 13 plans never reach discharge -- and what you can do about it.
+Federal court data reveals why roughly 1 in 3 confirmed Chapter 13 plans never reach discharge - and what you can do about it.
+
+Home›Bankruptcy Dismissal Rates›Why Do Chapter 13 Plans Fail?
 
 The National Picture
 
 Chapter 13 bankruptcy requires debtors to make regular payments to a trustee for 3 to 5 years. Federal court data shows that nationally, only approximately 33-40% of Chapter 13 cases result in a successful discharge. The rest are dismissed, converted to another chapter, or otherwise closed without the debtor receiving the relief they sought.
 
-This means that for every debtor who successfully completes a Chapter 13 plan, roughly one or two others do not. That is a sobering statistic -- and understanding why plans fail is the first step toward avoiding that outcome.
+This means that for every debtor who successfully completes a Chapter 13 plan, roughly one or two others do not. That is a sobering statistic - and understanding why plans fail is the first step toward avoiding that outcome.
 
 Context matters: The overall national rate obscures huge variation. Some districts have completion rates above 50%, while others fall below 25%. Your specific district, attorney, and personal circumstances all affect your individual odds.
 
@@ -2798,7 +3840,7 @@ Medical emergencies, car breakdowns, home repairs, and other unplanned expenses 
 
 3. Plans Set Too Aggressively
 
-Some plans are designed with payments that are technically possible based on the debtor's income and expenses -- but leave no margin for error. These "razor-thin" plans succeed only if everything goes perfectly for 3-5 years. In practice, something almost always goes wrong. Plans with built-in cushion have significantly higher completion rates.
+Some plans are designed with payments that are technically possible based on the debtor's income and expenses - but leave no margin for error. These "razor-thin" plans succeed only if everything goes perfectly for 3-5 years. In practice, something almost always goes wrong. Plans with built-in cushion have significantly higher completion rates.
 
 4. Failure to File Tax Returns
 
@@ -2806,15 +3848,15 @@ Federal law requires Chapter 13 debtors to file all required tax returns during 
 
 5. Failure to Maintain Insurance
 
-Debtors are typically required to maintain insurance on secured property -- homeowners insurance, auto insurance, and sometimes life insurance. Lapsed insurance triggers creditor complaints and can lead to dismissal. Insurance costs can also increase during the plan, adding financial strain.
+Debtors are typically required to maintain insurance on secured property - homeowners insurance, auto insurance, and sometimes life insurance. Lapsed insurance triggers creditor complaints and can lead to dismissal. Insurance costs can also increase during the plan, adding financial strain.
 
 6. Failure to Make Direct Payments
 
-Many Chapter 13 plans require debtors to make certain payments directly to creditors (such as ongoing mortgage payments) while also paying the trustee. Missing direct payments -- even while keeping up with trustee payments -- can lead to motions to dismiss or lift stay from mortgage and car lenders.
+Many Chapter 13 plans require debtors to make certain payments directly to creditors (such as ongoing mortgage payments) while also paying the trustee. Missing direct payments - even while keeping up with trustee payments - can lead to motions to dismiss or lift stay from mortgage and car lenders.
 
 7. Payment Shock
 
-The first few months of a Chapter 13 plan are the hardest. Debtors must begin making plan payments within 30 days of filing, often before the plan is even confirmed. This "payment shock" -- suddenly having a significant new monthly obligation -- is when many cases first go off track. Federal court data shows that a disproportionate number of dismissals occur in the first six months.
+The first few months of a Chapter 13 plan are the hardest. Debtors must begin making plan payments within 30 days of filing, often before the plan is even confirmed. This "payment shock" - suddenly having a significant new monthly obligation - is when many cases first go off track. Federal court data shows that a disproportionate number of dismissals occur in the first six months.
 
 8. Attorney Quality
 
@@ -2850,7 +3892,7 @@ Years 4-5
 Approximately 15-20%
 Plan fatigue, late income disruption, failure to complete debtor education
 
-The data is clear: the earlier you are in your plan, the higher the risk of dismissal. Cases that survive the first year have a significantly better chance of reaching discharge. This is why the first year is so critical -- and why planning for it specifically is essential. See our First-Year Drop page for a deeper analysis.
+The data is clear: the earlier you are in your plan, the higher the risk of dismissal. Cases that survive the first year have a significantly better chance of reaching discharge. This is why the first year is so critical - and why planning for it specifically is essential. See our First-Year Drop page for a deeper analysis.
 
 Are Completion Rates Improving?
 
@@ -2866,7 +3908,7 @@ BAPCPA changes: The 2005 Bankruptcy Abuse Prevention and Consumer Protection Act
 
 Economic recovery: Districts that experienced economic improvement have seen completion rates rise accordingly
 
-However, improvement is uneven. Some districts have seen little change in decades. The structural factors that drive high dismissal rates -- poverty, legal culture, attorney quality -- are deeply embedded and change slowly.
+However, improvement is uneven. Some districts have seen little change in decades. The structural factors that drive high dismissal rates - poverty, legal culture, attorney quality - are deeply embedded and change slowly.
 
 How to Avoid Dismissal
 
@@ -2874,23 +3916,23 @@ Understanding why plans fail points directly to strategies for success:
 
 Build a realistic budget. Do not overstate income or understate expenses. Include irregular expenses (car maintenance, medical copays, annual insurance premiums). A plan with a $200/month cushion is far more likely to succeed than one that spends every dollar.
 
-Know your modification options. If your circumstances change, you can request a plan modification under 11 U.S.C. Section 1329. This can lower payments, extend the plan, or change how creditors are treated. Do not wait until you are months behind -- act early.
+Know your modification options. If your circumstances change, you can request a plan modification under 11 U.S.C. Section 1329. This can lower payments, extend the plan, or change how creditors are treated. Do not wait until you are months behind - act early.
 
 Communicate with your trustee. Trustees would rather work with a cooperative debtor than file a motion to dismiss. If you anticipate a problem, contact the trustee's office before you miss a payment. Many trustees will grant informal grace periods for debtors who communicate proactively.
 
-Keep up with tax returns and insurance. These are non-negotiable requirements. Set calendar reminders. File your returns on time even if you owe taxes -- owing taxes is a separate problem from not filing returns.
+Keep up with tax returns and insurance. These are non-negotiable requirements. Set calendar reminders. File your returns on time even if you owe taxes - owing taxes is a separate problem from not filing returns.
 
-Consider hardship discharge. If you have completed a substantial portion of your plan and face circumstances beyond your control, 11 U.S.C. Section 1328(b) allows a "hardship discharge" even though the plan is not complete. This is a safety valve, not a guarantee -- but it exists for exactly these situations. Learn more at bankruptcyhardship.org.
+Consider hardship discharge. If you have completed a substantial portion of your plan and face circumstances beyond your control, 11 U.S.C. Section 1328(b) allows a "hardship discharge" even though the plan is not complete. This is a safety valve, not a guarantee - but it exists for exactly these situations. Learn more at bankruptcyhardship.org.
 
 Frequently Asked Questions
 
 What percentage of Chapter 13 plans succeed?
 
-Federal court data shows that approximately 33-40% of Chapter 13 cases nationally result in a successful discharge. This varies significantly by district -- some districts exceed 50% completion, while others fall below 25%. The rate also depends on how "success" is defined (some studies include conversions to Chapter 7 that result in discharge).
+Federal court data shows that approximately 33-40% of Chapter 13 cases nationally result in a successful discharge. This varies significantly by district - some districts exceed 50% completion, while others fall below 25%. The rate also depends on how "success" is defined (some studies include conversions to Chapter 7 that result in discharge).
 
 What is the most common reason for Chapter 13 dismissal?
 
-Failure to make plan payments is the most common proximate cause. The underlying reason is usually income disruption -- job loss, reduced hours, medical disability, or similar events. Plans with tight budgets and no emergency cushion are especially vulnerable.
+Failure to make plan payments is the most common proximate cause. The underlying reason is usually income disruption - job loss, reduced hours, medical disability, or similar events. Plans with tight budgets and no emergency cushion are especially vulnerable.
 
 Can I save my Chapter 13 if I fall behind on payments?
 
@@ -2898,7 +3940,7 @@ Yes, in many cases. Your primary options are: (1) catch up on missed payments an
 
 Is Chapter 13 worth it given the failure rate?
 
-Chapter 13 offers unique benefits that Chapter 7 does not provide: the ability to save a home from foreclosure by curing mortgage arrears, the ability to strip junior liens on underwater property, the ability to repay priority tax debts over time, and broader discharge eligibility under 11 U.S.C. Section 1328(a) compared to Chapter 7. Whether Chapter 13 is worth it depends on your specific goals, your income stability, and the quality of your attorney. Understanding the failure rate is not a reason to avoid Chapter 13 -- it is a reason to prepare carefully.
+Chapter 13 offers unique benefits that Chapter 7 does not provide: the ability to save a home from foreclosure by curing mortgage arrears, the ability to strip junior liens on underwater property, the ability to repay priority tax debts over time, and broader discharge eligibility under 11 U.S.C. Section 1328(a) compared to Chapter 7. Whether Chapter 13 is worth it depends on your specific goals, your income stability, and the quality of your attorney. Understanding the failure rate is not a reason to avoid Chapter 13 - it is a reason to prepare carefully.
 
 Check Your District's Rate
 
@@ -2915,13 +3957,13 @@ Subscribe
 
 Related Resources
 
-chapter13plan.org -- Understanding your Chapter 13 plan
+chapter13plan.org - Understanding your Chapter 13 plan
 
-bankruptcyhardship.org -- Hardship discharge under Section 1328(b)
+bankruptcyhardship.org - Hardship discharge under Section 1328(b)
 
-section1328.org -- Chapter 13 discharge requirements
+section1328.org - Chapter 13 discharge requirements
 
-meanstest.org -- Means test and chapter eligibility
+meanstest.org - Means test and chapter eligibility
 
 Last updated: March 2026. Data sourced from federal bankruptcy court records.
 
@@ -2938,16 +3980,16 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy denial and dismissal:
 
 11 U.S.C. Section 707
-Cornell LII -- Chapter 7 dismissal
+Cornell LII - Chapter 7 dismissal
 
 11 U.S.C. Section 1307
-Cornell LII -- Chapter 13 dismissal
+Cornell LII - Chapter 13 dismissal
 
 Bankruptcy Basics
 USCourts.gov
 
 U.S. Trustee Program
-DOJ -- motions to dismiss
+DOJ - motions to dismiss
 
 CFPB: Bankruptcy Overview
 Consumer guide
@@ -3034,1002 +4076,72 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Dismissal Rates -- Central District of California
-Source: https://dismissalrate.org/districts/central-district-of-california.html
+## Privacy Policy - dismissalrate.org
+Source: https://dismissalrate.org/privacy.html
 
 dismissalrate.org
 
-1328f.com1328f.org
+Home
+Privacy
 
-Bankruptcy Dismissal Rates -- Attorney Performance Data
+Privacy Policy
 
-Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
 
-Dismissal Rates -- Central District of California
+Data We Collect
 
-Free bankruptcy dismissal rate data for the Central District of California (CACB). Federal bankruptcy courts vary significantly by district -- local judge practices, trustee behavior, and attorney quality all affect outcomes.
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
 
-The Central District of California is one of the busiest bankruptcy districts in the country.
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
 
-Local Resources
+What We Don't Do
 
-Use the free screener at 1328f.com to check attorney performance data in this district.
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
 
-View all districts
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
 
-Check your eligibility:
-Free Discharge Screener
+Cookies
 
-Stay updated on new datasets and research findings
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
 
-No spam. No marketing. Just data.
+Third-Party Services
 
-Subscribe
+Google Analytics (GA4) - aggregate traffic measurement
 
-Related Guides
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
 
-What is a Bankruptcy Mill?
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
 
-Open Bankruptcy Project
+GitHub Pages - hosting
 
-Attorney Monitoring Dashboard
+Contact Forms & Email
 
-Related Guides
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
 
-What Happens After Dismissal
+Children's Privacy
 
-What happens after your case is dismissed
+This site is not directed at children under 13. We do not knowingly collect information from children.
 
-dismissedbankruptcy.org →
+Data Retention
 
-Bankruptcy Discharge Guide
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
 
-How the bankruptcy discharge process works
+Your Rights
 
-bankruptcydischarge.org →
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
 
-Dismissed Bankruptcy Cases
+Network Policy
 
-Free bankruptcy information guide
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
-bankruptcydismissed.com →
+Changes
 
-Chapter 7 vs Chapter 13
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
 
-Side-by-side comparison to pick your chapter
+Effective: March 30, 2026  |  Updated: April 11, 2026
 
-chapter7vs13.org →
+Home  ·  Privacy  ·  Open Bankruptcy Project
 
-You May Also Find Helpful
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
 
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-Student Loans in Bankruptcy -- bankruptcystudentloans.org
-
-Free Means Test Calculator -- meanstest.org
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
-
-1328f.com1328f.org♥ Sponsor
-
-This site provides general information only and does not constitute legal advice. Consult a qualified attorney for your specific situation.
-
-Privacy | Terms | Open Bankruptcy Project
-
-Our research was cited by the federal judiciary as Suggestion 26-BK-3
-
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
-
----
-
-## Dismissal Rates -- Eastern District of New York
-Source: https://dismissalrate.org/districts/eastern-district-of-new-york.html
-
-dismissalrate.org
-
-1328f.com1328f.org
-
-Bankruptcy Dismissal Rates -- Attorney Performance Data
-
-Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
-
-Dismissal Rates -- Eastern District of New York
-
-Free bankruptcy dismissal rate data for the Eastern District of New York (NYEB). Federal bankruptcy courts vary significantly by district -- local judge practices, trustee behavior, and attorney quality all affect outcomes.
-
-The Eastern District of New York is one of the busiest bankruptcy districts in the country.
-
-Local Resources
-
-Use the free screener at 1328f.com to check attorney performance data in this district.
-
-View all districts
-
-Check your eligibility:
-Free Discharge Screener
-
-Stay updated on new datasets and research findings
-
-No spam. No marketing. Just data.
-
-Subscribe
-
-Related Guides
-
-What is a Bankruptcy Mill?
-
-Open Bankruptcy Project
-
-Attorney Monitoring Dashboard
-
-Related Guides
-
-What Happens After Dismissal
-
-What happens after your case is dismissed
-
-dismissedbankruptcy.org →
-
-Bankruptcy Discharge Guide
-
-How the bankruptcy discharge process works
-
-bankruptcydischarge.org →
-
-Dismissed Bankruptcy Cases
-
-Free bankruptcy information guide
-
-bankruptcydismissed.com →
-
-Chapter 7 vs Chapter 13
-
-Side-by-side comparison to pick your chapter
-
-chapter7vs13.org →
-
-You May Also Find Helpful
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-Student Loans in Bankruptcy -- bankruptcystudentloans.org
-
-Free Means Test Calculator -- meanstest.org
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
-
-1328f.com1328f.org♥ Sponsor
-
-This site provides general information only and does not constitute legal advice. Consult a qualified attorney for your specific situation.
-
-Privacy | Terms | Open Bankruptcy Project
-
-Our research was cited by the federal judiciary as Suggestion 26-BK-3
-
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
-
----
-
-## Dismissal Rates by District
-Source: https://dismissalrate.org/districts/
-
-dismissalrate.org
-
-1328f.com1328f.org
-
-Bankruptcy Dismissal Rates -- Attorney Performance Data
-
-Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
-
-Dismissal Rates by District
-
-Select your federal bankruptcy district:
-
-Central District of California
-
-Southern District of Florida
-
-Northern District of Illinois
-
-Eastern District of New York
-
-Northern District of Georgia
-
-Western District of Tennessee
-
-Middle District of Florida
-
-Southern District of New York
-
-Northern District of Ohio
-
-Western District of Missouri
-
-Check your eligibility:
-Free Discharge Screener
-
-Stay updated on new datasets and research findings
-
-No spam. No marketing. Just data.
-
-Subscribe
-
-Related Guides
-
-What is a Bankruptcy Mill?
-
-Open Bankruptcy Project
-
-Attorney Monitoring Dashboard
-
-Related Guides
-
-What Happens After Dismissal
-
-What happens after your case is dismissed
-
-dismissedbankruptcy.org →
-
-Bankruptcy Discharge Guide
-
-How the bankruptcy discharge process works
-
-bankruptcydischarge.org →
-
-Dismissed Bankruptcy Cases
-
-Free bankruptcy information guide
-
-bankruptcydismissed.com →
-
-Chapter 7 vs Chapter 13
-
-Side-by-side comparison to pick your chapter
-
-chapter7vs13.org →
-
-You May Also Find Helpful
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-Student Loans in Bankruptcy -- bankruptcystudentloans.org
-
-Open Bankruptcy Project -- openbankruptcyproject.org
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
-
-1328f.com1328f.org♥ Sponsor
-
-This site provides general information only and does not constitute legal advice. Consult a qualified attorney for your specific situation.
-
-Privacy | Terms | Open Bankruptcy Project
-
-Our research was cited by the federal judiciary as Suggestion 26-BK-3
-
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
-
----
-
-## Dismissal Rates -- Middle District of Florida
-Source: https://dismissalrate.org/districts/middle-district-of-florida.html
-
-dismissalrate.org
-
-1328f.com1328f.org
-
-Bankruptcy Dismissal Rates -- Attorney Performance Data
-
-Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
-
-Dismissal Rates -- Middle District of Florida
-
-Free bankruptcy dismissal rate data for the Middle District of Florida (FLMB). Federal bankruptcy courts vary significantly by district -- local judge practices, trustee behavior, and attorney quality all affect outcomes.
-
-The Middle District of Florida is one of the busiest bankruptcy districts in the country.
-
-Local Resources
-
-Use the free screener at 1328f.com to check attorney performance data in this district.
-
-View all districts
-
-Check your eligibility:
-Free Discharge Screener
-
-Stay updated on new datasets and research findings
-
-No spam. No marketing. Just data.
-
-Subscribe
-
-Related Guides
-
-What is a Bankruptcy Mill?
-
-Open Bankruptcy Project
-
-Attorney Monitoring Dashboard
-
-Related Guides
-
-What Happens After Dismissal
-
-What happens after your case is dismissed
-
-dismissedbankruptcy.org →
-
-Bankruptcy Discharge Guide
-
-How the bankruptcy discharge process works
-
-bankruptcydischarge.org →
-
-Dismissed Bankruptcy Cases
-
-Free bankruptcy information guide
-
-bankruptcydismissed.com →
-
-Chapter 7 vs Chapter 13
-
-Side-by-side comparison to pick your chapter
-
-chapter7vs13.org →
-
-You May Also Find Helpful
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-Student Loans in Bankruptcy -- bankruptcystudentloans.org
-
-Free Means Test Calculator -- meanstest.org
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
-
-1328f.com1328f.org♥ Sponsor
-
-This site provides general information only and does not constitute legal advice. Consult a qualified attorney for your specific situation.
-
-Privacy | Terms | Open Bankruptcy Project
-
-Our research was cited by the federal judiciary as Suggestion 26-BK-3
-
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
-
----
-
-## Dismissal Rates -- Northern District of Georgia
-Source: https://dismissalrate.org/districts/northern-district-of-georgia.html
-
-dismissalrate.org
-
-1328f.com1328f.org
-
-Bankruptcy Dismissal Rates -- Attorney Performance Data
-
-Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
-
-Dismissal Rates -- Northern District of Georgia
-
-Free bankruptcy dismissal rate data for the Northern District of Georgia (GANB). Federal bankruptcy courts vary significantly by district -- local judge practices, trustee behavior, and attorney quality all affect outcomes.
-
-The Northern District of Georgia is one of the busiest bankruptcy districts in the country.
-
-Local Resources
-
-Use the free screener at 1328f.com to check attorney performance data in this district.
-
-View all districts
-
-Check your eligibility:
-Free Discharge Screener
-
-Stay updated on new datasets and research findings
-
-No spam. No marketing. Just data.
-
-Subscribe
-
-Related Guides
-
-What is a Bankruptcy Mill?
-
-Open Bankruptcy Project
-
-Attorney Monitoring Dashboard
-
-Related Guides
-
-What Happens After Dismissal
-
-What happens after your case is dismissed
-
-dismissedbankruptcy.org →
-
-Bankruptcy Discharge Guide
-
-How the bankruptcy discharge process works
-
-bankruptcydischarge.org →
-
-Dismissed Bankruptcy Cases
-
-Free bankruptcy information guide
-
-bankruptcydismissed.com →
-
-Chapter 7 vs Chapter 13
-
-Side-by-side comparison to pick your chapter
-
-chapter7vs13.org →
-
-You May Also Find Helpful
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-Student Loans in Bankruptcy -- bankruptcystudentloans.org
-
-Free Means Test Calculator -- meanstest.org
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
-
-1328f.com1328f.org♥ Sponsor
-
-This site provides general information only and does not constitute legal advice. Consult a qualified attorney for your specific situation.
-
-Privacy | Terms | Open Bankruptcy Project
-
-Our research was cited by the federal judiciary as Suggestion 26-BK-3
-
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
-
----
-
-## Dismissal Rates -- Northern District of Illinois
-Source: https://dismissalrate.org/districts/northern-district-of-illinois.html
-
-dismissalrate.org
-
-1328f.com1328f.org
-
-Bankruptcy Dismissal Rates -- Attorney Performance Data
-
-Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
-
-Dismissal Rates -- Northern District of Illinois
-
-Free bankruptcy dismissal rate data for the Northern District of Illinois (ILNB). Federal bankruptcy courts vary significantly by district -- local judge practices, trustee behavior, and attorney quality all affect outcomes.
-
-The Northern District of Illinois is one of the busiest bankruptcy districts in the country.
-
-Local Resources
-
-Use the free screener at 1328f.com to check attorney performance data in this district.
-
-View all districts
-
-Check your eligibility:
-Free Discharge Screener
-
-Stay updated on new datasets and research findings
-
-No spam. No marketing. Just data.
-
-Subscribe
-
-Related Guides
-
-What is a Bankruptcy Mill?
-
-Open Bankruptcy Project
-
-Attorney Monitoring Dashboard
-
-Related Guides
-
-What Happens After Dismissal
-
-What happens after your case is dismissed
-
-dismissedbankruptcy.org →
-
-Bankruptcy Discharge Guide
-
-How the bankruptcy discharge process works
-
-bankruptcydischarge.org →
-
-Dismissed Bankruptcy Cases
-
-Free bankruptcy information guide
-
-bankruptcydismissed.com →
-
-Chapter 7 vs Chapter 13
-
-Side-by-side comparison to pick your chapter
-
-chapter7vs13.org →
-
-You May Also Find Helpful
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-Student Loans in Bankruptcy -- bankruptcystudentloans.org
-
-Free Means Test Calculator -- meanstest.org
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
-
-1328f.com1328f.org♥ Sponsor
-
-This site provides general information only and does not constitute legal advice. Consult a qualified attorney for your specific situation.
-
-Privacy | Terms | Open Bankruptcy Project
-
-Our research was cited by the federal judiciary as Suggestion 26-BK-3
-
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
-
----
-
-## Dismissal Rates -- Northern District of Ohio
-Source: https://dismissalrate.org/districts/northern-district-of-ohio.html
-
-dismissalrate.org
-
-1328f.com1328f.org
-
-Bankruptcy Dismissal Rates -- Attorney Performance Data
-
-Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
-
-Dismissal Rates -- Northern District of Ohio
-
-Free bankruptcy dismissal rate data for the Northern District of Ohio (OHNB). Federal bankruptcy courts vary significantly by district -- local judge practices, trustee behavior, and attorney quality all affect outcomes.
-
-The Northern District of Ohio is one of the busiest bankruptcy districts in the country.
-
-Local Resources
-
-Use the free screener at 1328f.com to check attorney performance data in this district.
-
-View all districts
-
-Check your eligibility:
-Free Discharge Screener
-
-Stay updated on new datasets and research findings
-
-No spam. No marketing. Just data.
-
-Subscribe
-
-Related Guides
-
-What is a Bankruptcy Mill?
-
-Open Bankruptcy Project
-
-Attorney Monitoring Dashboard
-
-Related Guides
-
-What Happens After Dismissal
-
-What happens after your case is dismissed
-
-dismissedbankruptcy.org →
-
-Bankruptcy Discharge Guide
-
-How the bankruptcy discharge process works
-
-bankruptcydischarge.org →
-
-Dismissed Bankruptcy Cases
-
-Free bankruptcy information guide
-
-bankruptcydismissed.com →
-
-Chapter 7 vs Chapter 13
-
-Side-by-side comparison to pick your chapter
-
-chapter7vs13.org →
-
-You May Also Find Helpful
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-Student Loans in Bankruptcy -- bankruptcystudentloans.org
-
-Free Means Test Calculator -- meanstest.org
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
-
-1328f.com1328f.org♥ Sponsor
-
-This site provides general information only and does not constitute legal advice. Consult a qualified attorney for your specific situation.
-
-Privacy | Terms | Open Bankruptcy Project
-
-Our research was cited by the federal judiciary as Suggestion 26-BK-3
-
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
-
----
-
-## Dismissal Rates -- Southern District of Florida
-Source: https://dismissalrate.org/districts/southern-district-of-florida.html
-
-dismissalrate.org
-
-1328f.com1328f.org
-
-Bankruptcy Dismissal Rates -- Attorney Performance Data
-
-Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
-
-Dismissal Rates -- Southern District of Florida
-
-Free bankruptcy dismissal rate data for the Southern District of Florida (FLSB). Federal bankruptcy courts vary significantly by district -- local judge practices, trustee behavior, and attorney quality all affect outcomes.
-
-The Southern District of Florida is one of the busiest bankruptcy districts in the country.
-
-Local Resources
-
-Use the free screener at 1328f.com to check attorney performance data in this district.
-
-View all districts
-
-Check your eligibility:
-Free Discharge Screener
-
-Stay updated on new datasets and research findings
-
-No spam. No marketing. Just data.
-
-Subscribe
-
-Related Guides
-
-What is a Bankruptcy Mill?
-
-Open Bankruptcy Project
-
-Attorney Monitoring Dashboard
-
-Related Guides
-
-What Happens After Dismissal
-
-What happens after your case is dismissed
-
-dismissedbankruptcy.org →
-
-Bankruptcy Discharge Guide
-
-How the bankruptcy discharge process works
-
-bankruptcydischarge.org →
-
-Dismissed Bankruptcy Cases
-
-Free bankruptcy information guide
-
-bankruptcydismissed.com →
-
-Chapter 7 vs Chapter 13
-
-Side-by-side comparison to pick your chapter
-
-chapter7vs13.org →
-
-You May Also Find Helpful
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-Student Loans in Bankruptcy -- bankruptcystudentloans.org
-
-Free Means Test Calculator -- meanstest.org
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
-
-1328f.com1328f.org♥ Sponsor
-
-This site provides general information only and does not constitute legal advice. Consult a qualified attorney for your specific situation.
-
-Privacy | Terms | Open Bankruptcy Project
-
-Our research was cited by the federal judiciary as Suggestion 26-BK-3
-
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
-
----
-
-## Dismissal Rates -- Southern District of New York
-Source: https://dismissalrate.org/districts/southern-district-of-new-york.html
-
-dismissalrate.org
-
-1328f.com1328f.org
-
-Bankruptcy Dismissal Rates -- Attorney Performance Data
-
-Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
-
-Dismissal Rates -- Southern District of New York
-
-Free bankruptcy dismissal rate data for the Southern District of New York (NYSB). Federal bankruptcy courts vary significantly by district -- local judge practices, trustee behavior, and attorney quality all affect outcomes.
-
-The Southern District of New York is one of the busiest bankruptcy districts in the country.
-
-Local Resources
-
-Use the free screener at 1328f.com to check attorney performance data in this district.
-
-View all districts
-
-Check your eligibility:
-Free Discharge Screener
-
-Stay updated on new datasets and research findings
-
-No spam. No marketing. Just data.
-
-Subscribe
-
-Related Guides
-
-What is a Bankruptcy Mill?
-
-Open Bankruptcy Project
-
-Attorney Monitoring Dashboard
-
-Related Guides
-
-What Happens After Dismissal
-
-What happens after your case is dismissed
-
-dismissedbankruptcy.org →
-
-Bankruptcy Discharge Guide
-
-How the bankruptcy discharge process works
-
-bankruptcydischarge.org →
-
-Dismissed Bankruptcy Cases
-
-Free bankruptcy information guide
-
-bankruptcydismissed.com →
-
-Chapter 7 vs Chapter 13
-
-Side-by-side comparison to pick your chapter
-
-chapter7vs13.org →
-
-You May Also Find Helpful
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-Student Loans in Bankruptcy -- bankruptcystudentloans.org
-
-Free Means Test Calculator -- meanstest.org
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
-
-1328f.com1328f.org♥ Sponsor
-
-This site provides general information only and does not constitute legal advice. Consult a qualified attorney for your specific situation.
-
-Privacy | Terms | Open Bankruptcy Project
-
-Our research was cited by the federal judiciary as Suggestion 26-BK-3
-
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
-
----
-
-## Dismissal Rates -- Western District of Missouri
-Source: https://dismissalrate.org/districts/western-district-of-missouri.html
-
-dismissalrate.org
-
-1328f.com1328f.org
-
-Bankruptcy Dismissal Rates -- Attorney Performance Data
-
-Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
-
-Dismissal Rates -- Western District of Missouri
-
-Free bankruptcy dismissal rate data for the Western District of Missouri (MOWB). Federal bankruptcy courts vary significantly by district -- local judge practices, trustee behavior, and attorney quality all affect outcomes.
-
-The Western District of Missouri is one of the busiest bankruptcy districts in the country.
-
-Local Resources
-
-Use the free screener at 1328f.com to check attorney performance data in this district.
-
-View all districts
-
-Check your eligibility:
-Free Discharge Screener
-
-Stay updated on new datasets and research findings
-
-No spam. No marketing. Just data.
-
-Subscribe
-
-Related Guides
-
-What is a Bankruptcy Mill?
-
-Open Bankruptcy Project
-
-Attorney Monitoring Dashboard
-
-Related Guides
-
-What Happens After Dismissal
-
-What happens after your case is dismissed
-
-dismissedbankruptcy.org →
-
-Bankruptcy Discharge Guide
-
-How the bankruptcy discharge process works
-
-bankruptcydischarge.org →
-
-Dismissed Bankruptcy Cases
-
-Free bankruptcy information guide
-
-bankruptcydismissed.com →
-
-Chapter 7 vs Chapter 13
-
-Side-by-side comparison to pick your chapter
-
-chapter7vs13.org →
-
-You May Also Find Helpful
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-Student Loans in Bankruptcy -- bankruptcystudentloans.org
-
-Free Means Test Calculator -- meanstest.org
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
-
-1328f.com1328f.org♥ Sponsor
-
-This site provides general information only and does not constitute legal advice. Consult a qualified attorney for your specific situation.
-
-Privacy | Terms | Open Bankruptcy Project
-
-Our research was cited by the federal judiciary as Suggestion 26-BK-3
-
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
-
----
-
-## Dismissal Rates -- Western District of Tennessee
-Source: https://dismissalrate.org/districts/western-district-of-tennessee.html
-
-dismissalrate.org
-
-1328f.com1328f.org
-
-Bankruptcy Dismissal Rates -- Attorney Performance Data
-
-Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
-
-Dismissal Rates -- Western District of Tennessee
-
-Free bankruptcy dismissal rate data for the Western District of Tennessee (TNWB). Federal bankruptcy courts vary significantly by district -- local judge practices, trustee behavior, and attorney quality all affect outcomes.
-
-The Western District of Tennessee is one of the busiest bankruptcy districts in the country.
-
-Local Resources
-
-Use the free screener at 1328f.com to check attorney performance data in this district.
-
-View all districts
-
-Check your eligibility:
-Free Discharge Screener
-
-Stay updated on new datasets and research findings
-
-No spam. No marketing. Just data.
-
-Subscribe
-
-Related Guides
-
-What is a Bankruptcy Mill?
-
-Open Bankruptcy Project
-
-Attorney Monitoring Dashboard
-
-Related Guides
-
-What Happens After Dismissal
-
-What happens after your case is dismissed
-
-dismissedbankruptcy.org →
-
-Bankruptcy Discharge Guide
-
-How the bankruptcy discharge process works
-
-bankruptcydischarge.org →
-
-Dismissed Bankruptcy Cases
-
-Free bankruptcy information guide
-
-bankruptcydismissed.com →
-
-Chapter 7 vs Chapter 13
-
-Side-by-side comparison to pick your chapter
-
-chapter7vs13.org →
-
-You May Also Find Helpful
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-Student Loans in Bankruptcy -- bankruptcystudentloans.org
-
-Free Means Test Calculator -- meanstest.org
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
-
-1328f.com1328f.org♥ Sponsor
-
-This site provides general information only and does not constitute legal advice. Consult a qualified attorney for your specific situation.
-
-Privacy | Terms | Open Bankruptcy Project
-
-Our research was cited by the federal judiciary as Suggestion 26-BK-3
-
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+No ads. No affiliate links. No data sold. Supported by donations.
