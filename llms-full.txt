@@ -257,7 +257,7 @@ Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported
 
 Part of the Bankruptcy Transparency Network
 
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending)
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit
 
 Real information, no strings.
 
@@ -496,7 +496,7 @@ Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported
 
 Part of the Bankruptcy Transparency Network
 
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending)
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit
 
 Real information, no strings.
 
@@ -938,7 +938,7 @@ Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported
 
 Part of the Bankruptcy Transparency Network
 
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending)
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit
 
 Real information, no strings.
 
@@ -1221,7 +1221,7 @@ Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported
 
 Part of the Bankruptcy Transparency Network
 
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending)
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit
 
 Real information, no strings.
 
@@ -2522,7 +2522,7 @@ Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported
 
 Part of the Bankruptcy Transparency Network
 
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending)
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit
 
 Real information, no strings.
 
@@ -2997,7 +2997,7 @@ Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported
 
 Part of the Bankruptcy Transparency Network
 
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending)
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit
 
 Real information, no strings.
 
@@ -3323,7 +3323,7 @@ Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported
 
 Part of the Bankruptcy Transparency Network
 
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending)
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit
 
 Real information, no strings.
 
@@ -3623,7 +3623,7 @@ Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported
 
 Part of the Bankruptcy Transparency Network
 
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending)
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit
 
 Real information, no strings.
 
@@ -4041,7 +4041,7 @@ Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported
 
 Part of the Bankruptcy Transparency Network
 
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending)
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit
 
 Real information, no strings.
 
@@ -4132,7 +4132,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
