@@ -1,4 +1,6 @@
 # Bankruptcy Dismissal Rate by District - 2026 Data
+> Last updated: 2026-05-01
+
 > Compare bankruptcy dismissal rates across all 94 federal districts. Data-driven analysis of Chapter 13 failure rates. 2026 update.
 
 ## About
