@@ -1,5 +1,5 @@
 # Bankruptcy Dismissal Rate by District - 2026 Data
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 > Compare bankruptcy dismissal rates across all 94 federal districts. Data-driven analysis of Chapter 13 failure rates. 2026 update.
 
@@ -8,28 +8,67 @@ dismissalrate.org is part of the Open Bankruptcy Project (openbankruptcyproject.
 
 ## Key Pages
 - Does Your Attorney Affect Your Chapter 13 Success Rate? - Dismissal Rate: https://dismissalrate.org/attorney-impact.html
-- Bankruptcy Rate - National Filing and Dismissal Statistics [2026] - Dismissal Rate: https://dismissalrate.org/bankruptcy-rate.html
-- Bankruptcy Dismissal Rates by Federal District - Find Your Court: https://dismissalrate.org/by-district.html
-- Chapter 13 Bankruptcy Dismissal Rates by State: https://dismissalrate.org/by-state.html
-- Dismissal Rates - Central District of California: https://dismissalrate.org/districts/central-district-of-california.html
-- Dismissal Rates - Eastern District of New York: https://dismissalrate.org/districts/eastern-district-of-new-york.html
-- Dismissal Rates by District: https://dismissalrate.org/districts/
-- Dismissal Rates - Middle District of Florida: https://dismissalrate.org/districts/middle-district-of-florida.html
-- Dismissal Rates - Northern District of Georgia: https://dismissalrate.org/districts/northern-district-of-georgia.html
-- Dismissal Rates - Northern District of Illinois: https://dismissalrate.org/districts/northern-district-of-illinois.html
-- Dismissal Rates - Northern District of Ohio: https://dismissalrate.org/districts/northern-district-of-ohio.html
-- Dismissal Rates - Southern District of Florida: https://dismissalrate.org/districts/southern-district-of-florida.html
-- Dismissal Rates - Southern District of New York: https://dismissalrate.org/districts/southern-district-of-new-york.html
-- Dismissal Rates - Western District of Missouri: https://dismissalrate.org/districts/western-district-of-missouri.html
-- Dismissal Rates - Western District of Tennessee: https://dismissalrate.org/districts/western-district-of-tennessee.html
+- Bankruptcy Rate Statistics [2026]: National Filing and Dismissal Data Year-Over-Year: https://dismissalrate.org/bankruptcy-rate.html
+- Bankruptcy Dismissal Rates by Federal District [2026]: 91 Bankruptcy Courts Compared: https://dismissalrate.org/by-district.html
+- Chapter 13 Dismissal Rates by State [2026]: State-Level AOUSC Filing and Completion Data: https://dismissalrate.org/by-state.html
+- Bankruptcy Dismissal Rate - Central District of California (FJC Data): https://dismissalrate.org/districts/central-district-of-california.html
+- Bankruptcy Dismissal Rate - Eastern District of New York (FJC Data): https://dismissalrate.org/districts/eastern-district-of-new-york.html
+- Bankruptcy Dismissal Rates by Federal District: https://dismissalrate.org/districts/
+- Bankruptcy Dismissal Rate - Middle District of Florida (FJC Data): https://dismissalrate.org/districts/middle-district-of-florida.html
+- Bankruptcy Dismissal Rate - Northern District of Georgia (FJC Data): https://dismissalrate.org/districts/northern-district-of-georgia.html
+- Bankruptcy Dismissal Rate - Northern District of Illinois (FJC Data): https://dismissalrate.org/districts/northern-district-of-illinois.html
+- Bankruptcy Dismissal Rate - Northern District of Ohio (FJC Data): https://dismissalrate.org/districts/northern-district-of-ohio.html
+- Bankruptcy Dismissal Rate - Southern District of Florida (FJC Data): https://dismissalrate.org/districts/southern-district-of-florida.html
+- Bankruptcy Dismissal Rate - Southern District of New York (FJC Data): https://dismissalrate.org/districts/southern-district-of-new-york.html
+- Bankruptcy Dismissal Rate - Western District of Missouri (FJC Data): https://dismissalrate.org/districts/western-district-of-missouri.html
+- Bankruptcy Dismissal Rate - Western District of Tennessee (FJC Data): https://dismissalrate.org/districts/western-district-of-tennessee.html
 - The First-Year Drop - When Most Chapter 13 Cases Fail - Dismissal Rate: https://dismissalrate.org/first-year-drop.html
 - How to Check an Attorney's Dismissal Rate: https://dismissalrate.org/how-to-check.html
 - Bankruptcy Dismissal Rate by District - 2026 Data: https://dismissalrate.org/
 - Your Bankruptcy Was Dismissed - What Are Your Options Now? - Dismissal Rate: https://dismissalrate.org/recovery-options.html
-- Voluntary Dismissal vs. Court-Ordered Dismissal in Bankruptcy - Dismissal Rate: https://dismissalrate.org/voluntary-vs-court.html
+- Voluntary vs Court-Ordered Dismissal [2026]: 11 USC 1307(b) vs 1307(c) Procedures: https://dismissalrate.org/voluntary-vs-court.html
 - What a High Dismissal Rate Means: https://dismissalrate.org/what-it-means.html
-- Why Do Chapter 13 Plans Fail? The Data Behind Bankruptcy Dismissals - Dismissal Rate: https://dismissalrate.org/why-chapter-13-fail.html
+- Why Chapter 13 Plans Fail [2026]: Top Dismissal Drivers and 1307(c) Cause Analysis: https://dismissalrate.org/why-chapter-13-fail.html
 - Privacy Policy: https://dismissalrate.org/privacy.html
+- About dismissalrate.org: https://dismissalrate.org/about.html
+- Bankruptcy Dismissal Rate - Central District of Illinois (FJC Data): https://dismissalrate.org/districts/central-district-of-illinois.html
+- Bankruptcy Dismissal Rate - District of Colorado (FJC Data): https://dismissalrate.org/districts/district-of-colorado.html
+- Bankruptcy Dismissal Rate - District of Connecticut (FJC Data): https://dismissalrate.org/districts/district-of-connecticut.html
+- Bankruptcy Dismissal Rate - District of Kansas (FJC Data): https://dismissalrate.org/districts/district-of-kansas.html
+- Bankruptcy Dismissal Rate - District of Maryland (FJC Data): https://dismissalrate.org/districts/district-of-maryland.html
+- Bankruptcy Dismissal Rate - District of Massachusetts (FJC Data): https://dismissalrate.org/districts/district-of-massachusetts.html
+- Bankruptcy Dismissal Rate - District of Minnesota (FJC Data): https://dismissalrate.org/districts/district-of-minnesota.html
+- Bankruptcy Dismissal Rate - District of Nebraska (FJC Data): https://dismissalrate.org/districts/district-of-nebraska.html
+- Bankruptcy Dismissal Rate - District of Nevada (FJC Data): https://dismissalrate.org/districts/district-of-nevada.html
+- Bankruptcy Dismissal Rate - District of New Jersey (FJC Data): https://dismissalrate.org/districts/district-of-new-jersey.html
+- Bankruptcy Dismissal Rate - District of South Carolina (FJC Data): https://dismissalrate.org/districts/district-of-south-carolina.html
+- Bankruptcy Dismissal Rate - Eastern District of Arkansas (FJC Data): https://dismissalrate.org/districts/eastern-district-of-arkansas.html
+- Bankruptcy Dismissal Rate - Eastern District of California (FJC Data): https://dismissalrate.org/districts/eastern-district-of-california.html
+- Bankruptcy Dismissal Rate - Eastern District of Kentucky (FJC Data): https://dismissalrate.org/districts/eastern-district-of-kentucky.html
+- Bankruptcy Dismissal Rate - Eastern District of Michigan (FJC Data): https://dismissalrate.org/districts/eastern-district-of-michigan.html
+- Bankruptcy Dismissal Rate - Eastern District of Missouri (FJC Data): https://dismissalrate.org/districts/eastern-district-of-missouri.html
+- Bankruptcy Dismissal Rate - Eastern District of North Carolina (FJC Data): https://dismissalrate.org/districts/eastern-district-of-north-carolina.html
+- Bankruptcy Dismissal Rate - Eastern District of Pennsylvania (FJC Data): https://dismissalrate.org/districts/eastern-district-of-pennsylvania.html
+- Bankruptcy Dismissal Rate - Eastern District of Virginia (FJC Data): https://dismissalrate.org/districts/eastern-district-of-virginia.html
+- Bankruptcy Dismissal Rate - Eastern District of Wisconsin (FJC Data): https://dismissalrate.org/districts/eastern-district-of-wisconsin.html
+- Bankruptcy Dismissal Rate - Middle District of Alabama (FJC Data): https://dismissalrate.org/districts/middle-district-of-alabama.html
+- Bankruptcy Dismissal Rate - Middle District of Georgia (FJC Data): https://dismissalrate.org/districts/middle-district-of-georgia.html
+- Bankruptcy Dismissal Rate - Middle District of North Carolina (FJC Data): https://dismissalrate.org/districts/middle-district-of-north-carolina.html
+- Bankruptcy Dismissal Rate - Northern District of Alabama (FJC Data): https://dismissalrate.org/districts/northern-district-of-alabama.html
+- Bankruptcy Dismissal Rate - Northern District of Florida (FJC Data): https://dismissalrate.org/districts/northern-district-of-florida.html
+- Bankruptcy Dismissal Rate - Northern District of Indiana (FJC Data): https://dismissalrate.org/districts/northern-district-of-indiana.html
+- Bankruptcy Dismissal Rate - Northern District of Texas (FJC Data): https://dismissalrate.org/districts/northern-district-of-texas.html
+- Bankruptcy Dismissal Rate - Northern District of West Virginia (FJC Data): https://dismissalrate.org/districts/northern-district-of-west-virginia.html
+- Bankruptcy Dismissal Rate - Southern District of California (FJC Data): https://dismissalrate.org/districts/southern-district-of-california.html
+- Bankruptcy Dismissal Rate - Southern District of Illinois (FJC Data): https://dismissalrate.org/districts/southern-district-of-illinois.html
+- Bankruptcy Dismissal Rate - Southern District of Indiana (FJC Data): https://dismissalrate.org/districts/southern-district-of-indiana.html
+- Bankruptcy Dismissal Rate - Southern District of Ohio (FJC Data): https://dismissalrate.org/districts/southern-district-of-ohio.html
+- Bankruptcy Dismissal Rate - Southern District of Texas (FJC Data): https://dismissalrate.org/districts/southern-district-of-texas.html
+- Bankruptcy Dismissal Rate - Western District of Arkansas (FJC Data): https://dismissalrate.org/districts/western-district-of-arkansas.html
+- Bankruptcy Dismissal Rate - Western District of Kentucky (FJC Data): https://dismissalrate.org/districts/western-district-of-kentucky.html
+- Bankruptcy Dismissal Rate - Western District of New York (FJC Data): https://dismissalrate.org/districts/western-district-of-new-york.html
+- Bankruptcy Dismissal Rate - Western District of Oklahoma (FJC Data): https://dismissalrate.org/districts/western-district-of-oklahoma.html
+- Bankruptcy Dismissal Rate - Western District of Wisconsin (FJC Data): https://dismissalrate.org/districts/western-district-of-wisconsin.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
